@@ -1,2 +1,42 @@
-# HDMI_Capture_Card_Image_Quality
+# HDMI Capture Card Image Quality
 HDMI Capture Card Image Quality
+
+- ความเป็นมาและวัตถุประสงค์
+- ความรู้เบื้องต้น
+  - Image quality
+    - Subjective method
+      - Double stumulus with NVIDIA ICAT
+    - Objective method
+      - ImageMagick's compare using SSIM
+- อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
+  - อุปกรณ์
+    - AVerMedia Live Streamer CAP 4K - BU113
+    - ezcap CAM LINK 4K - ezcap331
+    - HAGiBiS Video Capture Card - THB01
+    - ACASIS 4K HDMI Video Capture Card - HD33
+    - Apogee HDMI Capture USB 3.0 - HV-HCA12
+  - โปรแกรม
+    - FFmpeg
+    - ImageMagick
+    - NVIDIA ICAT
+- การทดสอบ
+  - Latency test
+    - Video latency test
+      - HyperHDR
+    - Audio latency test
+      - TBD
+  - Framerate test
+    - PotPlayer
+    - trdrop
+  - Image test
+    - Objective test
+      - Similarity
+      - Exposure
+  - Stability test
+    - 100 image capture test
+  - Temperatute test
+    - Operating temperature
+    - Infiray T2L test
+- สรุปการทดสอบ
+  - การเลือกใช้งาน
+    - Desktop / Mobile
