@@ -10,15 +10,32 @@ HDMI Capture Card Image Quality
       - ImageMagick's compare using SSIM
 - อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
   - อุปกรณ์
-    - AVerMedia Live Streamer CAP 4K - BU113
-    - ezcap CAM LINK 4K - ezcap331
-    - HAGiBiS Video Capture Card - THB01
-    - ACASIS 4K HDMI Video Capture Card - HD33
-    - Apogee HDMI Capture USB 3.0 - HV-HCA12
+    - HDMI capture card
+      - AVerMedia Live Streamer CAP 4K - BU113
+      - ezcap CAM LINK 4K - ezcap331
+      - HAGiBiS Video Capture Card - THB01
+      - ACASIS 4K HDMI Video Capture Card - HD33
+      - Apogee HDMI Capture USB 3.0 - HV-HCA12
+    - UGREEN HDMI splitter 1x2
   - โปรแกรม
     - FFmpeg
     - ImageMagick
     - NVIDIA ICAT
+  - แผ่น Blu-ray
+    - Super HiVi CAST
+    - FPD Benchmark Software
+    - Hi-Definition Reference Software
+    - Blade Runner 2049
+    - TENET
+    - The Meg
+    - Oblivion
+    - E235
+    - E231
+    - World Natural Heritage Ogasawara: Bonin Blue Ocean
+    - Secluded Cherry Blossoms
+    - Hello World
+    - In This Corner of The World
+    - Kimagure Orange Road
 - การทดสอบ
   - Latency test
     - Video latency test
