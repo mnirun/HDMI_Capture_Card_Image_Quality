@@ -29,11 +29,17 @@ HDMI Capture Card Image Quality
 
 #### Subjective method
 
-Double stImulus with NVIDIA ICAT
+Double stimulus
+
+##### NVIDIA ICAT
 
 #### Objective method
 
-ImageMagick's compare using SSIM
+ - SSIM
+ - HCL: Luminance
+ - HCL: Chroma
+
+##### ImageMagick
 
 ### Chroma subsampling
 
@@ -51,15 +57,29 @@ ImageMagick's compare using SSIM
 
 ### Splitter
 
+HDMI video splitter
+
 ### Extractor
+
+HDMI audio extractor
 
 ## อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
 
-### อุปกรณ์
+### HDMI capture card
 
-#### HDMI capture card
+  - AVerMedia Live Streamer CAP 4K - BU113
+  - ezcap CAM LINK 4K - ezcap331
+  - HAGiBiS Video Capture Card - THB01
+  - ACASIS 4K HDMI Video Capture Card - HD33
+  - Apogee HDMI Capture USB 3.0 - HV-HCA12
+  - [Coming soon !] ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH
 
-#### แผ่น Blu-ray
+### อุปกรณ์อื่น ๆ
+
+  - [UGREEN HDMI splitter 1x2](https://www.amazon.com/dp/B0B129NNV1 )
+  - [Infiray T2L Thermal Camera](https://www.infiray.com/products/t2s-t2l-thermal-camera-for-smartphone.html)
+
+### แผ่น Blu-ray
 
   - [Super HiVi CAST](https://web.archive.org/web/20200215085853/http://www.hivicast.jp/detail/shvc_00_en.html)
   - [FPD Benchmark Software](https://www.phileweb.com/editor/av-review/157/special.html)
@@ -76,13 +96,44 @@ ImageMagick's compare using SSIM
   - [In This Corner of The World](https://www.amazon.com/dp/B072ZDZYKM/)
   - [Kimagure Orange Road](https://www.discotekmedia.com/Kimagure-Orange-Road-Complete-Blu-ray.htm)
 
+### โปรแกรม
 
-#### โปรแกรม
-
-  - FFmpeg
-  - ImageMagick
-  - NVIDIA ICAT
+  - [FFmpeg](https://ffmpeg.org/)
+  - [ImageMagick](https://www.imagemagick.org/)
+  - [NVIDIA Image Comparison & Analysis Tool (ICAT)](https://www.nvidia.com/en-us/geforce/technologies/icat/)
 
 ## การทดสอบ
+
+### Latency test
+
+#### Video latency test
+
+HyperHDR
+
+#### Audio latency test
+
+TBD
+
+### Framerate test
+
+  - PotPlayer
+  - trdrop
+
+### Image test
+
+  - Objective test
+    - Similarity
+    - Exposure
+  - Subjective test
+    - NVIDIA ICAT
+
+### Temperatute test
+
+  - Operating temperature
+  - Infiray T2L test
+
+### Reliability test
+
+interval capture test with ffmpeg
 
 ## สรุปการทดสอบ
