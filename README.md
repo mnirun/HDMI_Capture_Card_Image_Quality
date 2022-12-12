@@ -27,25 +27,25 @@ HDMI Capture Card Image Quality
       - [Coming soon !] ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH
     - UGREEN HDMI splitter 1x2
     - Infiray T2L
+    - แผ่น Blu-ray
+      - Super HiVi CAST
+      - FPD Benchmark Software
+      - Hi-Definition Reference Software
+      - Blade Runner 2049
+      - TENET
+      - The Meg
+      - Oblivion
+      - E235系山手線 4K撮影作品【ブルーレイ】
+      - Train Night View 夜の山手線 4K撮影作品【ブルーレイ】
+      - 世界自然遺産 小笠原 ～ボニンブルーの海～【ブルーレイ】
+      - さくら 春を彩る華やかな桜のある風景 4K撮影作品【ブルーレイ】
+      - Hello World
+      - In This Corner of The World
+      - Kimagure Orange Road
   - โปรแกรม
     - FFmpeg
     - ImageMagick
     - NVIDIA ICAT
-  - แผ่น Blu-ray
-    - Super HiVi CAST
-    - FPD Benchmark Software
-    - Hi-Definition Reference Software
-    - Blade Runner 2049
-    - TENET
-    - The Meg
-    - Oblivion
-    - E235系山手線 4K撮影作品【ブルーレイ】
-    - Train Night View 夜の山手線 4K撮影作品【ブルーレイ】
-    - World Natural Heritage Ogasawara: Bonin Blue Ocean
-    - Secluded Cherry Blossoms
-    - Hello World
-    - In This Corner of The World
-    - Kimagure Orange Road
 - การทดสอบ
   - Latency test
     - Video latency test
@@ -75,6 +75,32 @@ HDMI Capture Card Image Quality
 ## ความรู้เบื้องต้น
 
 ## อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
+
+### อุปกรณ์
+
+#### HDMI capture card
+
+#### แผ่น Blu-ray
+
+  - [Super HiVi CAST](https://web.archive.org/web/20200215085853/http://www.hivicast.jp/detail/shvc_00_en.html)
+  - [FPD Benchmark Software](https://www.phileweb.com/editor/av-review/157/special.html)
+  - [Hi-Definition Reference Software](https://www.qtec.ne.jp/technology/hdrs/)
+  - [Blade Runner 2049](https://www.amazon.com//dp/B07VFN6WLH/)
+  - [TENET](https://www.amazon.com/dp/B08MHRRKW7/)
+  - [The Meg](https://www.amazon.com/dp/B07D512BDG/)
+  - [Oblivion](https://www.amazon.com/dp/B07KLCVVV9/)
+  - [E235系山手線 4K撮影作品【ブルーレイ】](http://vicom.jp/shopdetail/000000001360)
+  - [Train Night View 夜の山手線 4K撮影作品【ブルーレイ】](http://vicom.jp/shopdetail/000000001361)
+  - [世界自然遺産 小笠原 ～ボニンブルーの海～【ブルーレイ】](http://vicom.jp/shopdetail/000000001359/)
+  - [さくら 春を彩る華やかな桜のある風景 4K撮影作品【ブルーレイ】](http://vicom.jp/shopdetail/000000001342/)
+  - [Hello World](https://www.amazon.com/dp/B083WCFCHV/)
+  - [In This Corner of The World](https://www.amazon.com/dp/B072ZDZYKM/)
+  - [Kimagure Orange Road](https://www.discotekmedia.com/Kimagure-Orange-Road-Complete-Blu-ray.htm)
+
+
+#### โปรแกรม
+
+
 
 ## การทดสอบ
 
