@@ -73,12 +73,12 @@ HDMI audio extractor
 
 ### HDMI capture card
 
-  - AVerMedia Live Streamer CAP 4K - BU113
-  - ezcap CAM LINK 4K - ezcap331
-  - HAGiBiS Video Capture Card - THB01
-  - ACASIS 4K HDMI Video Capture Card - HD33
-  - Apogee HDMI Capture USB 3.0 - HV-HCA12
-  - [Coming soon !] ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH
+  - [AVerMedia Live Streamer CAP 4K - BU113](https://www.avermedia.com/en/product-detail/bu113)
+  - [ezcap CAM LINK 4K - ezcap331](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)
+  - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
+  - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
+  - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
+  - [Coming soon !] [ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH](https://www.aliexpress.com/i/1005001929814532.html)
 
 ### อุปกรณ์อื่น ๆ
 
@@ -104,7 +104,11 @@ HDMI audio extractor
 
 ### โปรแกรม
 
+  - [mpv](https://mpv.io/) + [mpv-settings](https://github.com/Tsubajashi/mpv-settings)
   - [FFmpeg](https://ffmpeg.org/)
+  - [HyperHDR](https://github.com/awawa-dev/HyperHDR)
+  - [PotPlayer](https://potplayer.daum.net/)
+  - [trdrop](https://github.com/cirquit/trdrop)
   - [ImageMagick](https://www.imagemagick.org/)
   - [NVIDIA Image Comparison & Analysis Tool (ICAT)](https://www.nvidia.com/en-us/geforce/technologies/icat/)
 
@@ -143,3 +147,9 @@ TBD
 interval capture test with ffmpeg
 
 ## สรุปการทดสอบ
+
+ - การเลือก HDMI capture card
+   - MS2109 budget friendly
+   - 4K input/output ?
+   - Pixel format ?
+   - Color accuracy ?
