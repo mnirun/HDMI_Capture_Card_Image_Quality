@@ -24,6 +24,7 @@ HDMI Capture Card Image Quality
       - HAGiBiS Video Capture Card - THB01
       - ACASIS 4K HDMI Video Capture Card - HD33
       - Apogee HDMI Capture USB 3.0 - HV-HCA12
+      - [Coming soon !] ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH
     - UGREEN HDMI splitter 1x2
     - Infiray T2L
   - โปรแกรม
@@ -38,8 +39,8 @@ HDMI Capture Card Image Quality
     - TENET
     - The Meg
     - Oblivion
-    - E235
-    - E231
+    - E235系山手線 4K撮影作品【ブルーレイ】
+    - Train Night View 夜の山手線 4K撮影作品【ブルーレイ】
     - World Natural Heritage Ogasawara: Bonin Blue Ocean
     - Secluded Cherry Blossoms
     - Hello World
