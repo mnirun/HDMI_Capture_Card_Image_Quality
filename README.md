@@ -4,6 +4,7 @@ HDMI Capture Card Image Quality
 - ความเป็นมาและวัตถุประสงค์
 - ความรู้เบื้องต้น
   - Image quality
+  - Colorspace
   - Chroma subsampling
   - Pixel format
   - Scaler
@@ -40,6 +41,11 @@ Double stimulus
  - HCL: Chroma
 
 ##### ImageMagick
+
+### Colorspace
+
+ - RGB (Red, Green, Blue)
+ - HCL (Hue, Chroma, Luminance)
 
 ### Chroma subsampling
 
