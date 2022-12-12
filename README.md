@@ -78,7 +78,7 @@ HDMI audio extractor
   - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
   - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
   - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
-  - [Coming soon !] [ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH](https://www.aliexpress.com/i/1005001929814532.html)
+  - [Coming soon !] [ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH](https://www.aliexpress.com/i/1005001929814532.html) / [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
 
 ### อุปกรณ์อื่น ๆ
 
@@ -111,6 +111,7 @@ HDMI audio extractor
   - [trdrop](https://github.com/cirquit/trdrop)
   - [ImageMagick](https://www.imagemagick.org/)
   - [NVIDIA Image Comparison & Analysis Tool (ICAT)](https://www.nvidia.com/en-us/geforce/technologies/icat/)
+  - [mono-to-stereo](https://github.com/ToadKing/mono-to-stereo), [mono-to-stereo-gui](https://github.com/ndekopon/mono-to-stereo-gui)
 
 ## การทดสอบ
 
