@@ -79,11 +79,12 @@ HDMI audio extractor
   - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
   - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
   - [Coming soon !] [ACASIS USB 3.0 SDI/HDMI Capture Card - U3SDH](https://www.aliexpress.com/i/1005001929814532.html) / [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
+  - [Coming soon !] [Rullz MS2130 HDMI Video Capture 4K 30Hz U3](https://www.aliexpress.com/i/1005004883158574.html)
 
 ### อุปกรณ์อื่น ๆ
 
   - [UGREEN HDMI splitter 1x2](https://www.amazon.com/dp/B0B129NNV1 )
-  - [Infiray T2L Thermal Camera](https://www.infiray.com/products/t2s-t2l-thermal-camera-for-smartphone.html)
+  - [Infiray T2L USB-C thermal camera](https://www.infiray.com/products/t2s-t2l-thermal-camera-for-smartphone.html)
 
 ### แผ่น Blu-ray
 
