@@ -10,12 +10,15 @@ HDMI Capture Card Image Quality
   - Scaler
   - Splitter
   - Extractor
+  - USB 3.0 / 3.1 / 3.2 ?
+  - Uncompressed video data rates
 - อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
   - อุปกรณ์
   - โปรแกรม
 - การทดสอบ
   - Latency test
   - Framerate test
+    - Data rate checking
   - Image test
   - Temperatute test
   - Reliability test
@@ -68,6 +71,10 @@ HDMI video splitter
 ### Extractor
 
 HDMI audio extractor
+
+### USB 3.0 / 3.1 / 3.2 ?
+
+### Uncompressed video data rates
 
 ## อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
 
@@ -130,6 +137,8 @@ TBD
 
   - PotPlayer
   - trdrop
+
+#### Data rate checking
 
 ### Image test
 
