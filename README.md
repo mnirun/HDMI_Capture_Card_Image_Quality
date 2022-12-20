@@ -76,6 +76,15 @@ HDMI audio extractor
 
 ### Uncompressed video data rates
 
+ - Bits per second = PPF x BPP x FPS
+   - PPF = Pixels Per Frame
+     - PPF = Width x Height x Frame Scan Data
+   - BPP = Bits Per Pixel
+     - BPP = Bits Per Channel x Color Format Channel x Chroma Ratio
+       - Chroma Ratio = (Chroma Subsampling Y + Chroma Subsampling U (Cb) + Chroma Subsampling V (Cr)) / 12
+   - FPS = Frame Per Second
+ - Integer Overflow/Wraparound
+
 ## อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
 
 ### HDMI capture card
