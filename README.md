@@ -78,7 +78,7 @@ HDMI audio extractor
 
  - Bits per second = PPF x BPP x FPS
    - PPF = Pixels Per Frame
-     - PPF = Width x Height x Frame Scan Data
+     - PPF = Width x Height x Frame Scan
    - BPP = Bits Per Pixel
      - BPP = Bits Per Channel x Color Format Channel x Chroma Ratio
        - Chroma Ratio = (Chroma Subsampling Y + Chroma Subsampling U (Cb) + Chroma Subsampling V (Cr)) / 12
