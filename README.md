@@ -76,10 +76,11 @@ HDMI audio extractor
 
 ### Uncompressed video data rates
 
- - Bits per second ([data rates](https://en.wikipedia.org/wiki/Uncompressed_video#Data_rates)) = pixels per frame × bits per pixel × frames per second
-   - Pixels per frame ([resolution](https://en.wikipedia.org/wiki/Display_resolution)) = width × height
-   - Bits per pixel ([color depth](https://en.wikipedia.org/wiki/Color_depth)) = bits per channel × [color channels](https://en.wikipedia.org/wiki/Channel_(digital_image)) × chroma ratio
-       - Chroma ratio = (chroma subsampling Y + chroma subsampling U + chroma subsampling V) / 12
+
+ - Data rates = [resolution](https://en.wikipedia.org/wiki/Display_resolution) × [color depth](https://en.wikipedia.org/wiki/Color_depth) × [frames per second](https://en.wikipedia.org/wiki/Frame_rate)
+   - [Resolution](https://en.wikipedia.org/wiki/Display_resolution) = width × height
+   - [Color depth](https://en.wikipedia.org/wiki/Color_depth) = bits per channel × [color channels](https://en.wikipedia.org/wiki/Channel_(digital_image)) × chroma ratio
+     - Chroma ratio = (chroma subsampling Y + chroma subsampling U + chroma subsampling V) / 12
  - Integer Overflow/Wraparound
 
 ## อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
