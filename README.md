@@ -24,6 +24,7 @@ HDMI Capture Card Image Quality
   - Reliability test
 - สรุปการทดสอบ
   - การเลือกใช้งาน
+- ข้อมูลอ้างอิง
 
 ## ความเป็นมาและวัตถุประสงค์
 
@@ -179,3 +180,6 @@ interval capture test with ffmpeg
    - 4K input/output ?
    - Pixel format ?
    - Color accuracy ?
+
+## ข้อมูลอ้างอิง
+ - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
