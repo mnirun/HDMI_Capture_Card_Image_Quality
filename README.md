@@ -74,13 +74,21 @@ HDMI audio extractor
 
 ### USB 3.0 / 3.1 / 3.2 ?
 
+|ชื่อปัจจุบัน|ชื่อก่อนหน้า (ชื่อแรกสุด)|เลนคู่|ความเร็ว (Gbps)|การเชื่อมต่อ|
+|---|---|---|---|---|
+|USB 3.2 Gen 1x1|USB 3.1 Gen 1 (USB 3.0)|:x:|5|USB-A, B, micro B, USB-C|
+|USB 3.2 Gen 2x1|USB 3.1 Gen 2 (USB 3.1)|:x:|10|USB-A, B, micro B, USB-C|
+|USB 3.2 Gen 1x2|(USB 3.2)|:heavy_check_mark:|10|USB-C|
+|USB 3.2 Gen 2x2|(USB 3.2)|:heavy_check_mark:|20|USB-C|
+
+
 ### Uncompressed video data rates
 
 
  - Data rates = [resolution](https://en.wikipedia.org/wiki/Display_resolution) × [color depth](https://en.wikipedia.org/wiki/Color_depth) × [frames per second](https://en.wikipedia.org/wiki/Frame_rate)
    - [Resolution](https://en.wikipedia.org/wiki/Display_resolution) = width × height
    - [Color depth](https://en.wikipedia.org/wiki/Color_depth) = bits per channel × [color channels](https://en.wikipedia.org/wiki/Channel_(digital_image)) × chroma ratio
-     - Chroma ratio = (chroma subsampling Y + chroma subsampling U + chroma subsampling V) / 12
+     - Chroma ratio = (chroma subsampling Y + chroma subsampling Cb + chroma subsampling Cr) / 12
  - Integer Overflow/Wraparound
 
 ## อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
