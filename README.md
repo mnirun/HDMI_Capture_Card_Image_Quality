@@ -195,4 +195,4 @@ interval capture test with ffmpeg
 ## ข้อมูลอ้างอิง
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
  - [Image Quality Assessment Using the SSIM and the Just Noticeable Difference Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-39360-0_3)
- - [T101. HOW-TO: FINE-TUNING YOUR ADAPTIVE ENCODING GROUPS WITH OBJECTIVE QUALITY METRICS](https://streaminglearningcenter.com/wp-content/uploads/2018/11/Objective_Quality_Metrics_2018.pdf)
+ - [Buyers' Guide to Video Quality Metrics](https://www.streamingmediaglobal.com/Articles/Editorial/Featured-Articles/Buyers-Guide-to-Video-Quality-Metrics-130666.aspx)
