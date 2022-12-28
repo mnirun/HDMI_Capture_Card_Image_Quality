@@ -101,8 +101,8 @@ HDMI audio extractor
   - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
   - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
   - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
-  - [Coming soon !] [ACASIS USB 3.0 SDI/HDMI Capture Card - AC-U3SDH](https://www.aliexpress.com/i/1005001929814532.html) / [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
-  - [Coming soon !] [Rullz MS2130 HDMI Video Capture 4K 30Hz U3](https://www.aliexpress.com/i/1005004883158574.html)
+  - [ACASIS USB 3.0 SDI/HDMI Capture Card - AC-U3SDH](https://www.aliexpress.com/i/1005001929814532.html) / [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
+  - [Rullz MS2130 HDMI Video Capture 4K 30Hz U3](https://www.aliexpress.com/i/1005004883158574.html)
 
 ### อุปกรณ์อื่น ๆ
 
@@ -163,11 +163,11 @@ TBD
 
       |SSIM|MOS|คุณภาพ (Quality)|ลักษณะ (Impairment)|
       |---|---|---|---|
-      |99% ≤ X|5|ยอดเยี่ยม (Excellent)|คาดไม่ถึง (Imperceptible)|
-      |95% ≤ X < 99%|4|ดี (Good)|ใช้ได้ดี (Perceptible but not annoying)|
-      |88% ≤ X < 95%|3|พอใช้ (Fair)|น่าหงุดหงิดเล็กน้อย (Slightly annoying)|
-      |50% ≤ X < 88%|2|ไม่ดี (Poor)|ไม่น่าพอใจ (Annoying)|
-      |X <50%|1|แย่ (Bad)|ไม่พอใจ (Very annoying)|
+      |≥0.99|5|ยอดเยี่ยม (Excellent)|คาดไม่ถึง (Imperceptible)|
+      |≥0.95 & <0.99|4|ดี (Good)|ใช้ได้ดี (Perceptible but not annoying)|
+      |≥0.88 & <0.95|3|พอใช้ (Fair)|น่าหงุดหงิดเล็กน้อย (Slightly annoying)|
+      |≥0.50 & <0.88|2|ไม่ดี (Poor)|ไม่น่าพอใจ (Annoying)|
+      |<0.50|1|แย่ (Bad)|ไม่พอใจ (Very annoying)|
 
       MOS = [Mean opinion score](https://en.wikipedia.org/wiki/Mean_opinion_score)
 
