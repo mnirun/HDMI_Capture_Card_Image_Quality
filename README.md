@@ -160,6 +160,17 @@ TBD
 
   - Objective test
     - Similarity
+
+      |SSIM|MOS|คุณภาพ (Quality)|ลักษณะ (Impairment)|
+      |---|---|---|---|
+      |99% ≤ X|5|ยอดเยี่ยม (Excellent)|คาดไม่ถึง (Imperceptible)|
+      |95% ≤ X < 99%|4|ดี (Good)|ใช้ได้ดี (Perceptible but not annoying)|
+      |88% ≤ X < 95%|3|พอใช้ (Fair)|น่าหงุดหงิดเล็กน้อย (Slightly annoying)|
+      |50% ≤ X < 88%|2|ไม่ดี (Poor)|ไม่น่าพอใจ (Annoying)|
+      |X <50%|1|แย่ (Bad)|ไม่พอใจ (Very annoying)|
+
+      MOS = [Mean opinion score](https://en.wikipedia.org/wiki/Mean_opinion_score)
+
     - Exposure
   - Subjective test
     - NVIDIA ICAT
@@ -183,3 +194,5 @@ interval capture test with ffmpeg
 
 ## ข้อมูลอ้างอิง
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
+ - [Image Quality Assessment Using the SSIM and the Just Noticeable Difference Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-39360-0_3)
+ - [T101. HOW-TO: FINE-TUNING YOUR ADAPTIVE ENCODING GROUPS WITH OBJECTIVE QUALITY METRICS](https://streaminglearningcenter.com/wp-content/uploads/2018/11/Objective_Quality_Metrics_2018.pdf)
