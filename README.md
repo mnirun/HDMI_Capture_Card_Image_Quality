@@ -161,13 +161,13 @@ TBD
   - Objective test
     - Similarity
 
-      |SSIM|MOS|คุณภาพ (Quality)|ลักษณะ (Impairment)|
-      |---|---|---|---|
-      |≥0.99|5|ยอดเยี่ยม (Excellent)|คาดไม่ถึง (Imperceptible)|
-      |≥0.95 & <0.99|4|ดี (Good)|ใช้ได้ดี (Perceptible but not annoying)|
-      |≥0.88 & <0.95|3|พอใช้ (Fair)|น่าหงุดหงิดเล็กน้อย (Slightly annoying)|
-      |≥0.50 & <0.88|2|ไม่ดี (Poor)|ไม่น่าพอใจ (Annoying)|
-      |<0.50|1|แย่ (Bad)|ไม่พอใจ (Very annoying)|
+      |SSIM|MOS|คุณภาพ (Quality)|
+      |---|---|---|
+      |≥0.99|5|ยอดเยี่ยม (Excellent)|
+      |≥0.95 & <0.99|4|ดี (Good)|
+      |≥0.88 & <0.95|3|พอใช้ (Fair)|
+      |≥0.50 & <0.88|2|ไม่ดี (Poor)|
+      |<0.50|1|แย่ (Bad)|
 
       MOS = [Mean opinion score](https://en.wikipedia.org/wiki/Mean_opinion_score)
 
@@ -194,5 +194,4 @@ interval capture test with ffmpeg
 
 ## ข้อมูลอ้างอิง
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
- - [Image Quality Assessment Using the SSIM and the Just Noticeable Difference Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-39360-0_3)
- - [Buyers' Guide to Video Quality Metrics](https://www.streamingmediaglobal.com/Articles/Editorial/Featured-Articles/Buyers-Guide-to-Video-Quality-Metrics-130666.aspx)
+ - [A Novel Methodology for Mapping Objective Video Quality Metrics to the Subjective MOS Scale](https://ieeexplore.ieee.org/abstract/document/6873572/)
