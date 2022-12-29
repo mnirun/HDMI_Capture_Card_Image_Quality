@@ -195,3 +195,4 @@ interval capture test with ffmpeg
 ## ข้อมูลอ้างอิง
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
  - [A Novel Methodology for Mapping Objective Video Quality Metrics to the Subjective MOS Scale](https://ieeexplore.ieee.org/abstract/document/6873572/)
+ - [NON-EXPERTS OR EXPERTS? STATISTICAL ANALYSES OF MOS USING DSIS METHOD](https://repositori.upf.edu/bitstream/handle/10230/45507/sugito_icassp_nonex.pdf?sequence=1&isAllowed=y)
