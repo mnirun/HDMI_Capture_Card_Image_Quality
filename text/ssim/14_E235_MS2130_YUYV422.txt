@@ -1,0 +1,8 @@
+reference\14_E235.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.133
+capture\14_E235_MS2130_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.125u 0:00.127
+Image: reference\14_E235.png
+  Channel distortion: SSIM
+    red: 0.958167
+    green: 0.964995
+    blue: 0.953573
+    all: 0.958912

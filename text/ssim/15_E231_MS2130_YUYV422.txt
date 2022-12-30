@@ -1,0 +1,8 @@
+reference\15_E231.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.133
+capture\15_E231_MS2130_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.125u 0:00.131
+Image: reference\15_E231.png
+  Channel distortion: SSIM
+    red: 0.868332
+    green: 0.92877
+    blue: 0.882439
+    all: 0.89318

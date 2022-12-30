@@ -1,0 +1,8 @@
+reference\11_TENET.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.107
+capture\11_TENET_HCA12_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.109u 0:00.131
+Image: reference\11_TENET.png
+  Channel distortion: SSIM
+    red: 0.784109
+    green: 0.968907
+    blue: 0.805445
+    all: 0.85282

@@ -1,0 +1,8 @@
+reference\18_Hello_World.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.124
+capture\18_Hello_World_ezcap331_fw01.04.03.01_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.141u 0:00.139
+Image: reference\18_Hello_World.png
+  Channel distortion: SSIM
+    red: 0.992593
+    green: 0.995986
+    blue: 0.991849
+    all: 0.993476

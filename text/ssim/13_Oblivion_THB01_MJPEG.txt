@@ -1,0 +1,8 @@
+reference\13_Oblivion.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.078u 0:00.090
+capture\13_Oblivion_THB01_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.109u 0:00.117
+Image: reference\13_Oblivion.png
+  Channel distortion: SSIM
+    red: 0.718279
+    green: 0.718535
+    blue: 0.69968
+    all: 0.712165

@@ -1,0 +1,8 @@
+reference\18_Hello_World.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.142
+capture\18_Hello_World_BU113_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.141u 0:00.192
+Image: reference\18_Hello_World.png
+  Channel distortion: SSIM
+    red: 0.997355
+    green: 0.999071
+    blue: 0.996515
+    all: 0.997647

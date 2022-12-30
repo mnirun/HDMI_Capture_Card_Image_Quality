@@ -1,0 +1,8 @@
+reference\08_Hi-Definition_Reference_Color_Girl_1.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.047u 0:00.104
+capture\08_Hi-Definition_Reference_Color_Girl_1_ezcap331_fw01.04.03.01_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.078u 0:00.102
+Image: reference\08_Hi-Definition_Reference_Color_Girl_1.png
+  Channel distortion: SSIM
+    red: 0.994008
+    green: 0.995414
+    blue: 0.992504
+    all: 0.993975

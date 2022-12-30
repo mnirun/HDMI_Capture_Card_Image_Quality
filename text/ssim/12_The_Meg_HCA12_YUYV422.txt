@@ -1,0 +1,8 @@
+reference\12_The_Meg.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.119
+capture\12_The_Meg_HCA12_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.094u 0:00.130
+Image: reference\12_The_Meg.png
+  Channel distortion: SSIM
+    red: 0.984057
+    green: 0.98758
+    blue: 0.985793
+    all: 0.98581

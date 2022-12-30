@@ -1,0 +1,8 @@
+reference\12_The_Meg.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.141u 0:00.127
+capture\12_The_Meg_ezcap331_fw01.04.07.00_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.109u 0:00.134
+Image: reference\12_The_Meg.png
+  Channel distortion: SSIM
+    red: 0.997331
+    green: 0.998818
+    blue: 0.99633
+    all: 0.997493

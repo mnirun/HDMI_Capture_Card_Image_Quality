@@ -1,0 +1,8 @@
+reference\16_World_Natural_Heritage_Ogasawara_Bonin_Blue_Ocean.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.128
+capture\16_World_Natural_Heritage_Ogasawara_Bonin_Blue_Ocean_MS2130_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.141u 0:00.127
+Image: reference\16_World_Natural_Heritage_Ogasawara_Bonin_Blue_Ocean.png
+  Channel distortion: SSIM
+    red: 0.954572
+    green: 0.95499
+    blue: 0.939066
+    all: 0.949543

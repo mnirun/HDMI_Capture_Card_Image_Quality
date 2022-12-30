@@ -1,0 +1,8 @@
+reference\07_FPD_Benchmark_Fade_In_Out.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.135
+capture\07_FPD_Benchmark_Fade_In_Out_HCA12_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.156u 0:00.152
+Image: reference\07_FPD_Benchmark_Fade_In_Out.png
+  Channel distortion: SSIM
+    red: 0.920222
+    green: 0.936659
+    blue: 0.879226
+    all: 0.912036

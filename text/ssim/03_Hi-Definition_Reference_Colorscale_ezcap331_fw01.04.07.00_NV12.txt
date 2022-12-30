@@ -1,0 +1,8 @@
+reference\03_Hi-Definition_Reference_Colorscale.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.094u 0:00.101
+capture\03_Hi-Definition_Reference_Colorscale_ezcap331_fw01.04.07.00_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.109u 0:00.116
+Image: reference\03_Hi-Definition_Reference_Colorscale.png
+  Channel distortion: SSIM
+    red: 0.986498
+    green: 0.99482
+    blue: 0.987621
+    all: 0.989646

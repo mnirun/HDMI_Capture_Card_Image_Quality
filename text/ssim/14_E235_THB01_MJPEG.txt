@@ -1,0 +1,8 @@
+reference\14_E235.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.131
+capture\14_E235_THB01_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.125u 0:00.148
+Image: reference\14_E235.png
+  Channel distortion: SSIM
+    red: 0.960525
+    green: 0.966082
+    blue: 0.953636
+    all: 0.960081

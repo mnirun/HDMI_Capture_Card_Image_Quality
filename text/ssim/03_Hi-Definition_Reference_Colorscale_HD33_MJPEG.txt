@@ -1,0 +1,8 @@
+reference\03_Hi-Definition_Reference_Colorscale.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.100
+capture\03_Hi-Definition_Reference_Colorscale_HD33_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.094u 0:00.122
+Image: reference\03_Hi-Definition_Reference_Colorscale.png
+  Channel distortion: SSIM
+    red: 0.487811
+    green: 0.438539
+    blue: 0.501261
+    all: 0.47587

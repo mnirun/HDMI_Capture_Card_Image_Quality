@@ -1,0 +1,8 @@
+reference\03_Hi-Definition_Reference_Colorscale.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.101
+capture\03_Hi-Definition_Reference_Colorscale_THB01_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.109u 0:00.111
+Image: reference\03_Hi-Definition_Reference_Colorscale.png
+  Channel distortion: SSIM
+    red: 0.929971
+    green: 0.958298
+    blue: 0.928307
+    all: 0.938858

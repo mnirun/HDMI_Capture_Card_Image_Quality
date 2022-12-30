@@ -1,0 +1,8 @@
+reference\06_SuperHiViCAST_Blue_Color_Material_Glassware.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.118
+capture\06_SuperHiViCAST_Blue_Color_Material_Glassware_ezcap331_fw01.04.03.01_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.109u 0:00.131
+Image: reference\06_SuperHiViCAST_Blue_Color_Material_Glassware.png
+  Channel distortion: SSIM
+    red: 0.959582
+    green: 0.926508
+    blue: 0.89353
+    all: 0.92654

@@ -1,0 +1,8 @@
+reference\15_E231.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.141u 0:00.150
+capture\15_E231_BU113_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.156u 0:00.153
+Image: reference\15_E231.png
+  Channel distortion: SSIM
+    red: 0.995698
+    green: 0.998581
+    blue: 0.994967
+    all: 0.996415

@@ -1,0 +1,8 @@
+reference\05_SuperHiViCAST_Green_Color_Material_Vegetable.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.111
+capture\05_SuperHiViCAST_Green_Color_Material_Vegetable_BU113_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.125u 0:00.123
+Image: reference\05_SuperHiViCAST_Green_Color_Material_Vegetable.png
+  Channel distortion: SSIM
+    red: 0.994403
+    green: 0.997911
+    blue: 0.991222
+    all: 0.994512

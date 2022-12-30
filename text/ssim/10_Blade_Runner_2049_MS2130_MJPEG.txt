@@ -1,0 +1,8 @@
+reference\10_Blade_Runner_2049.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.094u 0:00.102
+capture\10_Blade_Runner_2049_MS2130_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.125u 0:00.111
+Image: reference\10_Blade_Runner_2049.png
+  Channel distortion: SSIM
+    red: 0.682179
+    green: 0.651524
+    blue: 0.665488
+    all: 0.666397

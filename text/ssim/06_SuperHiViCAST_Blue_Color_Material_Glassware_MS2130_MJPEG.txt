@@ -1,0 +1,8 @@
+reference\06_SuperHiViCAST_Blue_Color_Material_Glassware.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.117
+capture\06_SuperHiViCAST_Blue_Color_Material_Glassware_MS2130_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.125u 0:00.124
+Image: reference\06_SuperHiViCAST_Blue_Color_Material_Glassware.png
+  Channel distortion: SSIM
+    red: 0.820036
+    green: 0.81007
+    blue: 0.906324
+    all: 0.845476

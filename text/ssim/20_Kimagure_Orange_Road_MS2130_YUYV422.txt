@@ -1,0 +1,8 @@
+reference\20_Kimagure_Orange_Road.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.133
+capture\20_Kimagure_Orange_Road_MS2130_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.109u 0:00.113
+Image: reference\20_Kimagure_Orange_Road.png
+  Channel distortion: SSIM
+    red: 0.946055
+    green: 0.932098
+    blue: 0.943183
+    all: 0.940445

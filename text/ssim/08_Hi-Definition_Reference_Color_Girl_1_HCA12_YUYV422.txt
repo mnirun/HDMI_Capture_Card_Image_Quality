@@ -1,0 +1,8 @@
+reference\08_Hi-Definition_Reference_Color_Girl_1.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.078u 0:00.088
+capture\08_Hi-Definition_Reference_Color_Girl_1_HCA12_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.078u 0:00.107
+Image: reference\08_Hi-Definition_Reference_Color_Girl_1.png
+  Channel distortion: SSIM
+    red: 0.981996
+    green: 0.982455
+    blue: 0.974047
+    all: 0.979499

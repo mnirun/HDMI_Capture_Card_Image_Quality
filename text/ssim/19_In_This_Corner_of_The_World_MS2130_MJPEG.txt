@@ -1,0 +1,8 @@
+reference\19_In_This_Corner_of_The_World.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.128
+capture\19_In_This_Corner_of_The_World_MS2130_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.125u 0:00.124
+Image: reference\19_In_This_Corner_of_The_World.png
+  Channel distortion: SSIM
+    red: 0.942132
+    green: 0.945284
+    blue: 0.931914
+    all: 0.939776

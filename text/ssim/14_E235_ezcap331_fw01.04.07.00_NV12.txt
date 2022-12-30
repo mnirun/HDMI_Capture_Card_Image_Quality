@@ -1,0 +1,8 @@
+reference\14_E235.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.141u 0:00.135
+capture\14_E235_ezcap331_fw01.04.07.00_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.156u 0:00.147
+Image: reference\14_E235.png
+  Channel distortion: SSIM
+    red: 0.994896
+    green: 0.998587
+    blue: 0.992161
+    all: 0.995215

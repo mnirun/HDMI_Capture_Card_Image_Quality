@@ -1,0 +1,8 @@
+reference\04_SuperHiViCAST_Red_Color_Material_Rose.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.109
+capture\04_SuperHiViCAST_Red_Color_Material_Rose_THB01_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.141u 0:00.139
+Image: reference\04_SuperHiViCAST_Red_Color_Material_Rose.png
+  Channel distortion: SSIM
+    red: 0.931676
+    green: 0.82541
+    blue: 0.86609
+    all: 0.874392

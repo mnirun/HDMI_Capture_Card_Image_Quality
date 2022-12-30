@@ -1,0 +1,8 @@
+reference\18_Hello_World.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.124
+capture\18_Hello_World_HCA12_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.125u 0:00.145
+Image: reference\18_Hello_World.png
+  Channel distortion: SSIM
+    red: 0.946269
+    green: 0.95187
+    blue: 0.941865
+    all: 0.946668

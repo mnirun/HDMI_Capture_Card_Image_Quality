@@ -1,0 +1,8 @@
+reference\02_Hi-Definition_Reference_20-20_Step_B&W_Scale.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.078u 0:00.078
+capture\02_Hi-Definition_Reference_20-20_Step_B&W_Scale_ezcap331_fw01.04.03.01_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.094u 0:00.090
+Image: reference\02_Hi-Definition_Reference_20-20_Step_B&W_Scale.png
+  Channel distortion: SSIM
+    red: 0.951519
+    green: 0.951519
+    blue: 0.951519
+    all: 0.951519

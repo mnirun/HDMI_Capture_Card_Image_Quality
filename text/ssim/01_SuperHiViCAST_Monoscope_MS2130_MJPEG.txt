@@ -1,0 +1,8 @@
+reference\01_SuperHiViCAST_Monoscope.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.109u 0:00.106
+capture\01_SuperHiViCAST_Monoscope_MS2130_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.109u 0:00.116
+Image: reference\01_SuperHiViCAST_Monoscope.png
+  Channel distortion: SSIM
+    red: 0.973462
+    green: 0.974969
+    blue: 0.97253
+    all: 0.973654

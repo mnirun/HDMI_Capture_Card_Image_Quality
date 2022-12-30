@@ -1,0 +1,8 @@
+reference\11_TENET.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.094u 0:00.130
+capture\11_TENET_ezcap331_fw01.04.03.01_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.094u 0:00.122
+Image: reference\11_TENET.png
+  Channel distortion: SSIM
+    red: 0.711244
+    green: 0.703746
+    blue: 0.842162
+    all: 0.752384

@@ -1,0 +1,8 @@
+reference\06_SuperHiViCAST_Blue_Color_Material_Glassware.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.132
+capture\06_SuperHiViCAST_Blue_Color_Material_Glassware_BU113_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.125u 0:00.131
+Image: reference\06_SuperHiViCAST_Blue_Color_Material_Glassware.png
+  Channel distortion: SSIM
+    red: 0.990819
+    green: 0.996415
+    blue: 0.987855
+    all: 0.991696

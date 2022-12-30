@@ -1,0 +1,8 @@
+reference\02_Hi-Definition_Reference_20-20_Step_B&W_Scale.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.063u 0:00.090
+capture\02_Hi-Definition_Reference_20-20_Step_B&W_Scale_BU113_NV12.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.078u 0:00.089
+Image: reference\02_Hi-Definition_Reference_20-20_Step_B&W_Scale.png
+  Channel distortion: SSIM
+    red: 0.999986
+    green: 0.999986
+    blue: 0.999986
+    all: 0.999986

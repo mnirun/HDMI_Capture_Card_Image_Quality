@@ -1,0 +1,8 @@
+reference\17_Secluded_Cherry_Blossoms.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.125u 0:00.119
+capture\17_Secluded_Cherry_Blossoms_MS2130_MJPEG.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.93681MiB 0.125u 0:00.120
+Image: reference\17_Secluded_Cherry_Blossoms.png
+  Channel distortion: SSIM
+    red: 0.953418
+    green: 0.957182
+    blue: 0.84431
+    all: 0.918303

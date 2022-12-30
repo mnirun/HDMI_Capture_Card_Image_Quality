@@ -1,0 +1,8 @@
+reference\10_Blade_Runner_2049.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 6241170B 0.094u 0:00.099
+capture\10_Blade_Runner_2049_ezcap331_fw01.04.03.01_YUYV422.png PNG 1920x1080 1920x1080+0+0 8-bit sRGB 5.95202MiB 0.094u 0:00.114
+Image: reference\10_Blade_Runner_2049.png
+  Channel distortion: SSIM
+    red: 0.646604
+    green: 0.658512
+    blue: 0.63963
+    all: 0.648249
