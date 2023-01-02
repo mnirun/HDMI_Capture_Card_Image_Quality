@@ -102,7 +102,7 @@ HDMI audio extractor
   - [AVerMedia Live Streamer CAP 4K - BU113](https://www.avermedia.com/en/product-detail/bu113)
   - [ezcap CAM LINK 4K - ezcap331](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)
   - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
-  - [Rullz MS2130 HDMI Video Capture 4K 30Hz U3](https://www.aliexpress.com/i/1005004883158574.html)
+  - [Rullz HDMI Video Capture 4K 30Hz U3 MS2130](https://www.aliexpress.com/i/1005004883158574.html)
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
@@ -181,7 +181,7 @@ HDMI audio extractor
   - HDMI passthrough
   - Line-out
 
-#### Rullz MS2130 HDMI Video Capture 4K 30Hz U3
+#### Rullz HDMI Video Capture 4K 30Hz U3 MS2130
  
  ![Rullz_MS2130](images/device/Rullz_MS2130.png)
  
