@@ -159,6 +159,10 @@ HDMI audio extractor
   - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
   - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
 
+คาดเดาจากการตรวจสอบด้วยโปรแกรม Custom Resolution Utility (CRU), ดูสเปคชิป และนับจำนวนขาชิปจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+ - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160)
+ - [ITE Tech IT66021FN Single Port HDMI1.4 Receiver with 3D support](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)
+
 #### HAGiBiS Video Capture Card - THB01
 
 ![HAGiBiS_THB01](images/device/HAGiBiS_THB01.png)
@@ -208,6 +212,7 @@ HDMI audio extractor
   - [trdrop](https://github.com/cirquit/trdrop)
   - [ImageMagick](https://www.imagemagick.org/)
   - [NVIDIA Image Comparison & Analysis Tool (ICAT)](https://www.nvidia.com/en-us/geforce/technologies/icat/)
+  - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)
   - [mono-to-stereo](https://github.com/ToadKing/mono-to-stereo), [mono-to-stereo-gui](https://github.com/ndekopon/mono-to-stereo-gui)
 
 ## การทดสอบ
