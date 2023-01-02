@@ -131,10 +131,12 @@ HDMI audio extractor
 ![Apogee_HV](images/device/Apogee_HV-HCA12.png)
 
  - USB 3.2 Gen 1x1
+ - MStar Semiconductor MST097B
  - [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
  - HDMI passthrough
  - Line-out
- - (CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
+ - [CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
+ - [USB-Capture-Card-Reversing](https://github.com/ArsenioDev/USB-Capture-Card-Reversing)
  - [Razer Ripsaw HD Review](https://www.weistang.com/thread-115925-1-1.html)
 
 #### AVerMedia Live Streamer CAP 4K - BU113
@@ -145,6 +147,7 @@ HDMI audio extractor
   - SDR 3840x2160@30fps
   - SDR 1920x1080@60fps
   - HDR 1920x1080@60fps
+  - [AVerMedia Live Streamer CAP 4K Review (BU113) – So Much More Than a Cam Link!](https://streamguides.gg/2021/10/avermedia-live-streamer-cap-4k-review-bu113-so-much-more-than-a-cam-link/)
 
 #### ezcap CAM LINK 4K - ezcap331
 
