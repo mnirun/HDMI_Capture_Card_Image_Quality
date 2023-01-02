@@ -102,14 +102,15 @@ HDMI audio extractor
   - [AVerMedia Live Streamer CAP 4K - BU113](https://www.avermedia.com/en/product-detail/bu113)
   - [ezcap CAM LINK 4K - ezcap331](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)
   - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
-  - [Rullz MS2130 HDMI Video Capture 4K 30Hz U3](https://www.aliexpress.com/i/1005004883158574.html)
+  - [Rullz HDMI Video Capture 4K 30Hz U3 MS2130](https://www.aliexpress.com/i/1005004883158574.html)
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
 ![ACASIS_HD33](images/device/ACASIS_HD33.png)
 
  - USB 2.0
- - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
+ - ชิป
+   - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
  - HDMI passthrough
  - Line-in
 
@@ -119,23 +120,30 @@ HDMI audio extractor
 
   - USB 3.2 Gen 1x1
   - UVA & UVC
-  - Lattice Sil9293CNUC MHL/HDMI Receiver
-  - [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
-  - [FTDI FT602Q-B FIFO to UVC Class SuperSpeed USB3.0](https://ftdichip.com/products/ft602q-b/)
-  - [Genesys Logic GL3523 USB 3.1 Gen 1 Controller](https://www.genesyslogic.com.tw/en/product_view.php?show=67)
-  - [Solid State System SSS1600 USB Line-in Controller](http://www.3system.com.tw/en-global/product/productDetail/65)
-  - [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
+  - ชิป
+    - Lattice Sil9293CNUC MHL/HDMI Receiver
+    - [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
+    - [FTDI FT602Q-B FIFO to UVC Class SuperSpeed USB3.0](https://ftdichip.com/products/ft602q-b/)
+    - [Genesys Logic GL3523 USB 3.1 Gen 1 Controller](https://www.genesyslogic.com.tw/en/product_view.php?show=67)
+    - [Solid State System SSS1600 USB Line-in Controller](http://www.3system.com.tw/en-global/product/productDetail/65)
+  - ODM/OEM
+    - [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
 
 #### Apogee HDMI Capture USB 3.0 - HV-HCA12
 
 ![Apogee_HV](images/device/Apogee_HV-HCA12.png)
 
  - USB 3.2 Gen 1x1
- - [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
+ - ชิป
+   - MStar Semiconductor MST097B
+   - [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
  - HDMI passthrough
  - Line-out
- - (CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
- - [Razer Ripsaw HD Review](https://www.weistang.com/thread-115925-1-1.html)
+ - OEM/ODM
+   - [CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
+ - รีวิวชิป EtronTech EJ511
+   - [USB-Capture-Card-Reversing](https://github.com/ArsenioDev/USB-Capture-Card-Reversing)
+   - [Razer Ripsaw HD Review](https://www.weistang.com/thread-115925-1-1.html)
 
 #### AVerMedia Live Streamer CAP 4K - BU113
 
@@ -145,6 +153,8 @@ HDMI audio extractor
   - SDR 3840x2160@30fps
   - SDR 1920x1080@60fps
   - HDR 1920x1080@60fps
+  - รีวิว
+    - [AVerMedia Live Streamer CAP 4K Review (BU113) – So Much More Than a Cam Link!](https://streamguides.gg/2021/10/avermedia-live-streamer-cap-4k-review-bu113-so-much-more-than-a-cam-link/)
 
 #### ezcap CAM LINK 4K - ezcap331
 
@@ -153,24 +163,31 @@ HDMI audio extractor
   - USB 3.2 Gen 1x1
   - NV12 3840x2160@30fps
   - NV12 1920x1080@120fps
-  - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
-  - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
+  - ชิป
+    - [Macronix MX25L6445E Serial NOR Flash Memory](https://www.macronix.com/en-us/products/NOR-Flash/Serial-NOR-Flash/Pages/spec.aspx?p=MX25L6445E&m=Serial%20NOR%20Flash&n=PM1736)
+    - [ITE Tech IT66021FN Single Port HDMI1.4 Receiver with 3D support](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)
+    - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) - คาดเดาจากการตรวจสอบด้วยโปรแกรม [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU), ดูสเปคชิป และนับจำนวนขาชิปจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+  - ODM/OEM
+    - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
+    - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
 
 #### HAGiBiS Video Capture Card - THB01
 
 ![HAGiBiS_THB01](images/device/HAGiBiS_THB01.png)
 
   - USB 2.0
-  - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
+  - ชิป
+    - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
   - HDMI passthrough
   - Line-out
 
-#### Rullz MS2130 HDMI Video Capture 4K 30Hz U3
+#### Rullz HDMI Video Capture 4K 30Hz U3 MS2130
  
  ![Rullz_MS2130](images/device/Rullz_MS2130.png)
  
   - USB 3.2 Gen 1x1
-  - [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
+  - ชิป
+    - [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
   - YUY2 1920x1080@60fps
   - MJPEG 1290x1080@60fps
 
@@ -205,6 +222,7 @@ HDMI audio extractor
   - [trdrop](https://github.com/cirquit/trdrop)
   - [ImageMagick](https://www.imagemagick.org/)
   - [NVIDIA Image Comparison & Analysis Tool (ICAT)](https://www.nvidia.com/en-us/geforce/technologies/icat/)
+  - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)
   - [mono-to-stereo](https://github.com/ToadKing/mono-to-stereo), [mono-to-stereo-gui](https://github.com/ndekopon/mono-to-stereo-gui)
 
 ## การทดสอบ
