@@ -11,6 +11,7 @@ HDMI Capture Card Image Quality
   - Splitter
   - Extractor
   - USB 3.0 / 3.1 / 3.2 ?
+  - USB Vendor ID and Product ID
   - Uncompressed video data rates
 - อุปกรณ์และโปรแกรมที่ใช้ทดสอบ
   - อุปกรณ์
@@ -82,9 +83,11 @@ HDMI audio extractor
 |USB 3.2 Gen 1x2|(USB 3.2)|:heavy_check_mark:|10|USB-C|
 |USB 3.2 Gen 2x2|(USB 3.2)|:heavy_check_mark:|20|USB-C|
 
+### USB Vendor ID and Product ID
+
+USB Vendor ID and Product ID
 
 ### Uncompressed video data rates
-
 
  - Data rates = [resolution](https://en.wikipedia.org/wiki/Display_resolution) × [color depth](https://en.wikipedia.org/wiki/Color_depth) × [frames per second](https://en.wikipedia.org/wiki/Frame_rate)
    - [Resolution](https://en.wikipedia.org/wiki/Display_resolution) = width × height
@@ -188,6 +191,9 @@ HDMI audio extractor
   - USB 3.2 Gen 1x1
   - ชิป
     - [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
+  - USB
+    - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
+    - Product ID: 0x2130
   - YUY2 1920x1080@60fps
   - MJPEG 1290x1080@60fps
 
@@ -221,9 +227,12 @@ HDMI audio extractor
   - [PotPlayer](https://potplayer.daum.net/)
   - [trdrop](https://github.com/cirquit/trdrop)
   - [ImageMagick](https://www.imagemagick.org/)
+  - [mono-to-stereo](https://github.com/ToadKing/mono-to-stereo), [mono-to-stereo-gui](https://github.com/ndekopon/mono-to-stereo-gui)
   - [NVIDIA Image Comparison & Analysis Tool (ICAT)](https://www.nvidia.com/en-us/geforce/technologies/icat/)
   - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)
-  - [mono-to-stereo](https://github.com/ToadKing/mono-to-stereo), [mono-to-stereo-gui](https://github.com/ndekopon/mono-to-stereo-gui)
+  - [GhostBuster](https://github.com/SPOOCQ/ghostbuster)
+  - [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
+  - [Device Cleanup Cmd](https://www.uwe-sieber.de/misc_tools_e.html)
 
 ## การทดสอบ
 
@@ -288,5 +297,6 @@ interval capture test with ffmpeg
 
 ## ข้อมูลอ้างอิง
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
+ - [New FAQ on USB Vendor ID and Product ID – Open Source Hardware Association](https://www.oshwa.org/2013/11/19/new-faq-on-usb-vendor-id-and-product-id/)
  - [A Novel Methodology for Mapping Objective Video Quality Metrics to the Subjective MOS Scale](https://ieeexplore.ieee.org/abstract/document/6873572/)
  - [NON-EXPERTS OR EXPERTS? STATISTICAL ANALYSES OF MOS USING DSIS METHOD](https://repositori.upf.edu/bitstream/handle/10230/45507/sugito_icassp_nonex.pdf?sequence=1&isAllowed=y)
