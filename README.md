@@ -175,7 +175,17 @@ USB Vendor ID and Product ID
   - ชิป
     - [Macronix MX25L6445E Serial NOR Flash Memory](https://www.macronix.com/en-us/products/NOR-Flash/Serial-NOR-Flash/Pages/spec.aspx?p=MX25L6445E&m=Serial%20NOR%20Flash&n=PM1736)
     - [ITE Tech IT66021FN Single Port HDMI1.4 Receiver with 3D support](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)
-    - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) - คาดเดาจากการตรวจสอบด้วยโปรแกรม [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU), ดูสเปคชิป และนับจำนวนขาชิปจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+    - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
+      - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป ITE Tech ในชีรีส์ IT9320
+
+        ![ezcap_ezcap331_CRU](images/cru/ezcap_ezcap331_CRU.png)
+
+      - ตรวจสอบไฟล์ firmware ด้วยโปรแกรม [ImHex](https://imhex.werwolv.net/) พบว่าเป็นไฟล์ firmware สำหรับ ITE Tech
+
+        ![ezcap_ezcap331_ImHex](images/imhex/ezcap_ezcap331_ImHex.png)
+
+      - ตรวจภาพชิปโดยนับจำนวนขาชิปจากรูปที่ [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+
   - USB
     - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
     - Product ID: 0x3200
@@ -245,6 +255,7 @@ USB Vendor ID and Product ID
   - [GhostBuster](https://github.com/SPOOCQ/ghostbuster)
   - [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
   - [Device Cleanup Cmd](https://www.uwe-sieber.de/misc_tools_e.html)
+  - [ImHex](https://imhex.werwolv.net/)
 
 ## การทดสอบ
 
