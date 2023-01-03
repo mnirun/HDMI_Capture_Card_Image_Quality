@@ -175,7 +175,7 @@ USB Vendor ID and Product ID
   - ชิป
     - [Macronix MX25L6445E Serial NOR Flash Memory](https://www.macronix.com/en-us/products/NOR-Flash/Serial-NOR-Flash/Pages/spec.aspx?p=MX25L6445E&m=Serial%20NOR%20Flash&n=PM1736)
     - [ITE Tech IT66021FN Single Port HDMI1.4 Receiver with 3D support](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)
-    - [ITE Tech IT9320 Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
+    - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
       - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป ITE Tech ในชีรีส์ IT9320
 
         ![ezcap_ezcap331_CRU](images/cru/ezcap_ezcap331_CRU.png)
