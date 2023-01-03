@@ -114,6 +114,9 @@ USB Vendor ID and Product ID
  - USB 2.0
  - ชิป
    - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
+ - USB
+   - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
+   - Product ID: 0x2109
  - HDMI passthrough
  - Line-in
 
@@ -156,6 +159,9 @@ USB Vendor ID and Product ID
   - SDR 3840x2160@30fps
   - SDR 1920x1080@60fps
   - HDR 1920x1080@60fps
+  - USB
+    - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
+    - Product ID: 0x1113
   - รีวิว
     - [AVerMedia Live Streamer CAP 4K Review (BU113) – So Much More Than a Cam Link!](https://streamguides.gg/2021/10/avermedia-live-streamer-cap-4k-review-bu113-so-much-more-than-a-cam-link/)
 
@@ -170,6 +176,9 @@ USB Vendor ID and Product ID
     - [Macronix MX25L6445E Serial NOR Flash Memory](https://www.macronix.com/en-us/products/NOR-Flash/Serial-NOR-Flash/Pages/spec.aspx?p=MX25L6445E&m=Serial%20NOR%20Flash&n=PM1736)
     - [ITE Tech IT66021FN Single Port HDMI1.4 Receiver with 3D support](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)
     - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) - คาดเดาจากการตรวจสอบด้วยโปรแกรม [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU), ดูสเปคชิป และนับจำนวนขาชิปจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+  - USB
+    - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
+    - Product ID: 0x3200
   - ODM/OEM
     - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
     - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
@@ -181,6 +190,9 @@ USB Vendor ID and Product ID
   - USB 2.0
   - ชิป
     - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
+ - USB
+   - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
+   - Product ID: 0x2109
   - HDMI passthrough
   - Line-out
 
