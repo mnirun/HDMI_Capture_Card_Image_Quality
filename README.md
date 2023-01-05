@@ -107,6 +107,14 @@ USB Vendor ID and Product ID
   - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
   - [Rullz HDMI Video Capture 4K 30Hz U3 MS2130](https://www.aliexpress.com/i/1005004883158574.html)
 
+|&nbsp;|ACASIS HD33|ACASIS U3SDH|Apogee HV-HCA12|AVerMedia BU113|ezcap ezcap331|HAGiBiS THB01|Rullz 4K U3 30Hz|
+|---|---|---|---|---|---|---|---|
+|Interface|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
+|Interface Type|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
+|Input|HDMI 1.4|HDMI 1.4|HDMI 1.4|HDMI 2.0|HDMI 1.4|HDMI 1.4|HDMI 1.4|
+|HDMI Receiver IC|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice Sil9293CNUC](https://datasheet.lcsc.com/lcsc/1912111437_Lattice-SII9293CNUC_C369568.pdf)|MStar MST097B|[ITE IT68051TE](https://www.ite.com.tw/en/product/view?mid=102)|[ITE IT66021FN](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|Video to USB Bridge IC|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[ITE IT9325TE](https://www.ite.com.tw/en/product/view?mid=160)|[ITE IT9323TE](https://www.ite.com.tw/en/product/view?mid=160)|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
 ![ACASIS_HD33](images/device/ACASIS_HD33.png)
