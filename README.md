@@ -112,8 +112,8 @@ USB Vendor ID and Product ID
 |Interface|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
 |Interface Type|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
 |Input|HDMI 1.4|HDMI 1.4|HDMI 1.4|HDMI 2.0|HDMI 1.4|HDMI 1.4|HDMI 1.4|
-|HDMI Receiver IC|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice Sil9293CNUC](https://datasheet.lcsc.com/lcsc/1912111437_Lattice-SII9293CNUC_C369568.pdf)|MStar MST097B|[ITE IT68051TE](https://www.ite.com.tw/en/product/view?mid=102)|[ITE IT66021FN](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
-|Video to USB Bridge IC|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[ITE IT9325TE](https://www.ite.com.tw/en/product/view?mid=160)|[ITE IT9323TE](https://www.ite.com.tw/en/product/view?mid=160)|[MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|HDMI Receiver IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice Sil9293CNUC](https://datasheet.lcsc.com/lcsc/1912111437_Lattice-SII9293CNUC_C369568.pdf)|[ITE IT66121FN](https://www.ite.com.tw/en/product/view?mid=20)|[ITE IT68051TE](https://www.ite.com.tw/en/product/view?mid=102)|[ITE IT66021FN](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|Video to USB Bridge IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[ITE IT9325TE](https://www.ite.com.tw/en/product/view?mid=160)|[ITE IT9323TE](https://www.ite.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
@@ -149,8 +149,9 @@ USB Vendor ID and Product ID
 
  - USB 3.2 Gen 1x1
  - ชิป
-   - MStar Semiconductor MST097B
+   - [ITE IT66121FN Low Power Transmitter with HDMI1.4 3D Embedded CEC](https://www.ite.com.tw/en/product/view?mid=20)
    - [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
+   - [Wolfson WM8960 Stereo CODEC](https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors/52419/1/WM8960.pdf)
  - HDMI passthrough
  - Line-out
  - OEM/ODM
