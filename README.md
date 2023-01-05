@@ -159,6 +159,9 @@ USB Vendor ID and Product ID
   - SDR 3840x2160@30fps
   - SDR 1920x1080@60fps
   - HDR 1920x1080@60fps
+  - ชิป - ข้อมูลจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
+    - [ITE Tech IT68051TE Dual-port MHL2.2/HDMI2.0b Receiver with 3D Support](https://www.ite.com.tw/en/product/view?mid=102)
+    - [ITE Tech IT9325TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160)
   - USB
     - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
     - Product ID: 0x1113
