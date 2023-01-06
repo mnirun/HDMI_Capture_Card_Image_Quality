@@ -100,7 +100,7 @@ USB Vendor ID and Product ID
 ### HDMI capture card
 
   - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
-  - [ACASIS USB 3.0 SDI/HDMI Capture Card - AC-U3SDH](https://www.aliexpress.com/i/1005001929814532.html)
+  - [ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH](https://www.acasis.com/collections/acasis-capture-card/products/acasis-2-channel-sdi-hdmi-compatible-hd-video-capture-card-usb3-0-1920-1080p-for-game-record-live-stream-for-ps4-xbox-one-switch)
   - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
   - [AVerMedia Live Streamer CAP 4K - BU113](https://www.avermedia.com/en/product-detail/bu113)
   - [ezcap CAM LINK 4K - ezcap331](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)
@@ -112,45 +112,39 @@ USB Vendor ID and Product ID
 |Interface|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
 |Interface Type|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
 |Input|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
-|Video to USB Bridge IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[ITE IT9325TE](https://www.ite.com.tw/en/product/view?mid=160)|[ITE IT9323TE](https://www.ite.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|Digital Video to USB Bridge IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[ITE IT9325TE](https://www.ite.com.tw/en/product/view?mid=160)|[ITE IT9323TE](https://www.ite.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
 ![ACASIS_HD33](images/device/ACASIS_HD33.png)
 
  - USB 2.0
- - ชิป
-   - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
+ - Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
  - USB
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
    - Product ID: 0x2109
  - HDMI passthrough
  - Line-in
+ - ODM/OEM
+   - [720P/1080P HDMI Loop Out HD External Video Capture Equipment - PEC-HD33](https://www.purplelec.com/products/720p-1080p-hdmi-loop-out-hd-external-video-capture-equipment)
 
-#### ACASIS USB 3.0 SDI/HDMI Capture Card - AC-U3SDH
+#### ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH
 
 ![ACASIS_U3SDH](images/device/ACASIS_U3SDH.png)
 
   - USB 3.2 Gen 1x1
   - UVA & UVC
-  - ชิป
-    - Lattice Sil9293CNUC MHL/HDMI Receiver
-    - [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
-    - [FTDI FT602Q-B FIFO to UVC Class SuperSpeed USB3.0](https://ftdichip.com/products/ft602q-b/)
-    - [Genesys Logic GL3523 USB 3.1 Gen 1 Hub Controller](https://www.genesyslogic.com.tw/en/product_view.php?show=67)
-    - [Solid State System SSS1600 USB Line-in Controller](http://www.3system.com.tw/en-global/product/productDetail/65)
+  - Digital Video to USB Bridge IC: [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
   - ODM/OEM
     - [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
+    - [SDI & HDMI Input 1080P/1080i FHD External Video Capture Equipment - PEC-U3HDS](https://www.purplelec.com/products/makeup-modern-dresser-wood-dresser-with-mirror-51)
 
 #### Apogee HDMI Capture USB 3.0 - HV-HCA12
 
 ![Apogee_HV](images/device/Apogee_HV-HCA12.png)
 
  - USB 3.2 Gen 1x1
- - ชิป
-   - [ITE IT66121FN Low Power Transmitter with HDMI1.4 3D Embedded CEC](https://www.ite.com.tw/en/product/view?mid=20)
-   - [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
-   - [Wolfson WM8960 Stereo CODEC](https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors/52419/1/WM8960.pdf)
+ - Digital Video to USB Bridge IC: [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
  - HDMI passthrough
  - Line-out
  - OEM/ODM
@@ -167,14 +161,13 @@ USB Vendor ID and Product ID
   - SDR 3840x2160@30fps
   - SDR 1920x1080@60fps
   - HDR 1920x1080@60fps
-  - ชิป - ข้อมูลจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
-    - [ITE Tech IT68051TE Dual-port MHL2.2/HDMI2.0b Receiver with 3D Support](https://www.ite.com.tw/en/product/view?mid=102)
-    - [ITE Tech IT9325TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160)
+  - Digital Video to USB Bridge IC: [ITE Tech IT9325TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) ข้อมูลจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
   - USB
     - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
     - Product ID: 0x1113
   - รีวิว
     - [AVerMedia Live Streamer CAP 4K Review (BU113) – So Much More Than a Cam Link!](https://streamguides.gg/2021/10/avermedia-live-streamer-cap-4k-review-bu113-so-much-more-than-a-cam-link/)
+    - [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
 
 #### ezcap CAM LINK 4K - ezcap331
 
@@ -183,20 +176,12 @@ USB Vendor ID and Product ID
   - USB 3.2 Gen 1x1
   - NV12 3840x2160@30fps
   - NV12 1920x1080@120fps
-  - ชิป
-    - [Macronix MX25L6445E Serial NOR Flash Memory](https://www.macronix.com/en-us/products/NOR-Flash/Serial-NOR-Flash/Pages/spec.aspx?p=MX25L6445E&m=Serial%20NOR%20Flash&n=PM1736)
-    - [ITE Tech IT66021FN Single Port HDMI1.4 Receiver with 3D support](http://file2.dzsc.com/product/18/09/26/671969_105102966.pdf)
-    - [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
+  - Digital Video to USB Bridge IC: [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
       - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป ITE Tech ในชีรีส์ IT9320
-
         ![ezcap_ezcap331_CRU](images/cru/ezcap_ezcap331_CRU.png)
-
       - ตรวจสอบไฟล์ firmware ด้วยโปรแกรม [ImHex](https://imhex.werwolv.net/) พบว่าเป็นไฟล์ firmware สำหรับ ITE Tech
-
         ![ezcap_ezcap331_ImHex](images/imhex/ezcap_ezcap331_ImHex.png)
-
       - ตรวจภาพชิปโดยนับจำนวนขาชิปจากรูปที่ [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
-
   - USB
     - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
     - Product ID: 0x3200
@@ -209,8 +194,7 @@ USB Vendor ID and Product ID
 ![HAGiBiS_THB01](images/device/HAGiBiS_THB01.png)
 
   - USB 2.0
-  - ชิป
-    - [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
+  - Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
  - USB
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
    - Product ID: 0x2109
@@ -222,8 +206,7 @@ USB Vendor ID and Product ID
  ![Rullz_MS2130](images/device/Rullz_MS2130.png)
  
   - USB 3.2 Gen 1x1
-  - ชิป
-    - [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
+  - Digital Video to USB Bridge IC: [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
   - USB
     - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
     - Product ID: 0x2130
