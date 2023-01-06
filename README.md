@@ -127,6 +127,7 @@ USB Vendor ID and Product ID
  - Line-in
  - ODM/OEM
    - [PURPLELEC 720P/1080P HDMI Loop Out HD External Video Capture Equipment - PEC-HD33](https://www.purplelec.com/products/720p-1080p-hdmi-loop-out-hd-external-video-capture-equipment)
+ - Firmware Update: [PURPLELEC DOWNLOAD](https://www.purplelec.com/downloads/)
 
 #### ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH
 
@@ -188,6 +189,7 @@ USB Vendor ID and Product ID
   - ODM/OEM
     - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
     - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
+  - Firmware Update: [ezcap Support-Downloads & Documentation](https://www.ezcap.com/index.php/support/download.html)
 
 #### HAGiBiS Video Capture Card - THB01
 
@@ -212,6 +214,9 @@ USB Vendor ID and Product ID
     - Product ID: 0x2130
   - YUY2 1920x1080@60fps
   - MJPEG 1290x1080@60fps
+  - Firmware Update:
+    - [UltraSemi MS2130 MS2131 Reference Design](https://github.com/ultrasemier/ms213x_community)
+    - [Macrosilicon MS2106/MS2109/MS2130 research](https://github.com/BertoldVdb/ms-tools)
 
 ### อุปกรณ์อื่น ๆ
 
