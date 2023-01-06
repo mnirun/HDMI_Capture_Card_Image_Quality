@@ -126,7 +126,7 @@ USB Vendor ID and Product ID
  - HDMI passthrough
  - Line-in
  - ODM/OEM
-   - [720P/1080P HDMI Loop Out HD External Video Capture Equipment - PEC-HD33](https://www.purplelec.com/products/720p-1080p-hdmi-loop-out-hd-external-video-capture-equipment)
+   - [PURPLELEC 720P/1080P HDMI Loop Out HD External Video Capture Equipment - PEC-HD33](https://www.purplelec.com/products/720p-1080p-hdmi-loop-out-hd-external-video-capture-equipment)
 
 #### ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH
 
@@ -136,8 +136,8 @@ USB Vendor ID and Product ID
   - UVA & UVC
   - Digital Video to USB Bridge IC: [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
   - ODM/OEM
+    - [PURPLELEC SDI & HDMI Input 1080P/1080i FHD External Video Capture Equipment - PEC-U3HDS](https://www.purplelec.com/products/makeup-modern-dresser-wood-dresser-with-mirror-51)
     - [TYSTVideo 2 Channel SDI+HDMI Video Capture Box - TY-U3SDH](http://www.tystvideo.com/en/product_detail/172/419.html)
-    - [SDI & HDMI Input 1080P/1080i FHD External Video Capture Equipment - PEC-U3HDS](https://www.purplelec.com/products/makeup-modern-dresser-wood-dresser-with-mirror-51)
 
 #### Apogee HDMI Capture USB 3.0 - HV-HCA12
 
@@ -147,7 +147,7 @@ USB Vendor ID and Product ID
  - Digital Video to USB Bridge IC: [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
  - HDMI passthrough
  - Line-out
- - OEM/ODM
+ - ODM/OEM
    - [CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
  - รีวิวชิป EtronTech EJ511
    - [USB-Capture-Card-Reversing](https://github.com/ArsenioDev/USB-Capture-Card-Reversing)
