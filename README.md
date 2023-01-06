@@ -127,7 +127,8 @@ USB Vendor ID and Product ID
  - Line-in
  - ODM/OEM
    - [PURPLELEC 720P/1080P HDMI Loop Out HD External Video Capture Equipment - PEC-HD33](https://www.purplelec.com/products/720p-1080p-hdmi-loop-out-hd-external-video-capture-equipment)
- - Firmware Update: [PURPLELEC DOWNLOAD](https://www.purplelec.com/downloads/)
+ - Firmware Update
+   - [PURPLELEC DOWNLOAD - (PEC-HD31,PEC-HD33) USB 1080P Capture Card Chip Update [Win]](https://www.purplelec.com/downloads/)
 
 #### ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH
 
@@ -151,8 +152,9 @@ USB Vendor ID and Product ID
  - ODM/OEM
    - [CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
  - รีวิวชิป EtronTech EJ511
-   - [USB-Capture-Card-Reversing](https://github.com/ArsenioDev/USB-Capture-Card-Reversing)
    - [Razer Ripsaw HD Review](https://www.weistang.com/thread-115925-1-1.html)
+   - [Rullz USB 3.0 Navy U3 HDMI Capture Card](https://blog.sreb.me/2021/03/03/rullz-navy-u3-review/)
+   - [USB-Capture-Card-Reversing](https://github.com/ArsenioDev/USB-Capture-Card-Reversing)
 
 #### AVerMedia Live Streamer CAP 4K - BU113
 
@@ -189,7 +191,10 @@ USB Vendor ID and Product ID
   - ODM/OEM
     - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
     - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
-  - Firmware Update: [ezcap Support-Downloads & Documentation](https://www.ezcap.com/index.php/support/download.html)
+  - รีวิว
+    - [Ezcap 331 short review & some info about HyperHDR](https://www.hyperhdr.eu/2022/01/ezcap-331-short-review-some-info-about.html)
+  - Firmware Update
+    - [ezcap Support-Downloads & Documentation - ezcap331](https://www.ezcap.com/index.php/support/download.html)
 
 #### HAGiBiS Video Capture Card - THB01
 
@@ -202,6 +207,8 @@ USB Vendor ID and Product ID
    - Product ID: 0x2109
   - HDMI passthrough
   - Line-out
+  - Firmware Update
+    - [PURPLELEC DOWNLOAD - (PEC-HD31,PEC-HD33) USB 1080P Capture Card Chip Update [Win]](https://www.purplelec.com/downloads/)
 
 #### Rullz HDMI Video Capture 4K 30Hz U3 MS2130
  
