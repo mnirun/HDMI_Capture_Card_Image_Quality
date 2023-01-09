@@ -165,6 +165,7 @@ USB Vendor ID and Product ID
     - HDMI: HDMI 2.0 female
   - Streaming & Recording Resolutions:
     - USB 3.0
+      
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**3840 × 2160**|-|30|-|-|-|
@@ -175,6 +176,7 @@ USB Vendor ID and Product ID
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
     - USB 2.0
+      
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**1280 × 720**|-|30|30|-|-|
@@ -202,6 +204,7 @@ USB Vendor ID and Product ID
     - HDMI: HDMI 1.4b male
   - Streaming & Recording Resolutions:
     - USB 3.0
+      
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**3840 × 2160**|-|30|-|-|-|
@@ -209,6 +212,7 @@ USB Vendor ID and Product ID
       |**1920 × 1080**|-|120|60|30|-|
       |**1280 × 720**|-|60|60|60|-|
     - USB 2.0
+      
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**1280 × 720**|-|30|30|-|-|
@@ -388,10 +392,10 @@ interval capture test with ffmpeg
          - PCB
            - PCB NZXT Signal 4K30 เครดิตรูปจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
 
-           ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
+             ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
            - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
 
-           ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
+             ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
 ## ข้อมูลอ้างอิง
