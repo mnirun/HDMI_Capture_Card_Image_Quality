@@ -338,8 +338,8 @@ interval capture test with ffmpeg
          - iTE IT68050TE (NZXT) / IT68051TE (ASUS) HDMI Receiver
          - iTE IT9325TE Digital Video to USB3 Converter
          - iTE IT6663FN 1-to-2 HDMI2.0/MHL Dual in Active Splitter with EDID RAM
-         - eTronTech EJ179W USB 3.0 Host Controller
-         - MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU
+         - EtronTech EJ179W USB 3.0 Host Controller
+         - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
          - Barcode HU3906 (NZXT) / HU3902 (ASUS)
          ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
          ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
