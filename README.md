@@ -333,7 +333,7 @@ interval capture test with ffmpeg
          - รีวิว [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
        - [ASUS TUF GAMING CAPTURE BOX - CU4K30](https://www.asus.com/accessories/streaming-kits/video-capture-streaming/tuf-gaming-capture-box-cu4k30/)
          - รีวิว [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
-       - NZXT Signal 4K30 กับ ASUS TUF GAMING CAPTURE BOX - CU4K30 มี PCB layout และชิปต่าง ๆ รวมถึง barcode คล้ายกันมาก
+       - NZXT Signal 4K30 กับ ASUS TUF GAMING CAPTURE BOX - CU4K30 มี PCB layout และชิปต่าง ๆ รวมถึง barcode คล้ายกันมาก จนอดคิดไม่ได้ว่ามาจากโรงงานเดียวกัน
          - Made in Taiwan
          - iTE IT68050TE (NZXT) / IT68051TE (ASUS) HDMI Receiver
          - iTE IT9325TE Digital Video to USB3 Converter
