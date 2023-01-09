@@ -77,7 +77,7 @@ HDMI audio extractor
 ### USB 3.0 / 3.1 / 3.2 ?
 
 |ชื่อปัจจุบัน|ชื่อก่อนหน้า (ชื่อแรกสุด)|เลนคู่|ความเร็ว (Gbps)|การเชื่อมต่อ|
-|---|---|---|---|---|
+|---|---|:---:|:---:|---|
 |USB 3.2 Gen 1x1|USB 3.1 Gen 1 (USB 3.0)|:x:|5|USB-A, B, micro B, USB-C|
 |USB 3.2 Gen 2x1|USB 3.1 Gen 2 (USB 3.1)|:x:|10|USB-A, B, micro B, USB-C|
 |USB 3.2 Gen 1x2|(USB 3.2)|:heavy_check_mark:|10|USB-C|
@@ -160,11 +160,32 @@ USB Vendor ID and Product ID
 
 ![AVerMedia_BU113](images/device/AVerMedia_BU113.png)
 
-  - USB 3.2 Gen 1x1
-  - SDR 3840x2160@30fps
-  - SDR 1920x1080@60fps
-  - HDR 1920x1080@60fps
-  - Digital Video to USB Bridge IC: [iTE Tech IT9325TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) ข้อมูลจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
+  - Interface
+    - USB: USB 3.2 Gen 1x1 Type-C female
+    - HDMI: HDMI 2.0 female
+  - Streaming & Recording Resolutions:
+    - USB 3.0
+      |&nbsp;|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**3840 × 2160**|-|30|-|-|-|
+      |**2560 × 1440**|-|60|60|-|-|
+      |**1920 × 1080**|-|60|60|-|60|
+      |**1280 × 720**|-|60|60|-|60|
+      |**720 × 576**|-|50|50|-|-|
+      |**720 × 480**|-|60|60|-|-|
+      |**640 × 480**|-|60|60|-|-|
+    - USB 2.0
+      |&nbsp;|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1280 × 720**|-|30|30|-|-|
+      |**720 × 576**|-|50|50|-|-|
+      |**720 × 480**|-|60|60|-|-|
+      |**640 × 480**|-|60|60|-|-|
+  - Audio: HDMI stereo 16bit 48KHz
+  - Scaling: Hardware downscaling and upscaling to 1080p
+  - Digital Video to USB Bridge IC: [iTE Tech IT9325TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) เครดิตรูปจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
+    
+    ![AVerMedia_BU113](images/teardown/AVerMedia_BU113.jpg)
   - USB
     - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
     - Product ID: 0x1113
@@ -181,10 +202,14 @@ USB Vendor ID and Product ID
   - NV12 1920x1080@120fps
   - Digital Video to USB Bridge IC: [iTE Tech IT9323TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
       - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป iTE Tech ในชีรีส์ IT9320
+
         ![ezcap_ezcap331_CRU](images/cru/ezcap_ezcap331_CRU.png)
       - ตรวจสอบไฟล์ firmware ด้วยโปรแกรม [ImHex](https://imhex.werwolv.net/) พบว่าเป็นไฟล์ firmware สำหรับ iTE Tech
+
         ![ezcap_ezcap331_ImHex](images/imhex/ezcap_ezcap331_ImHex.png)
-      - ตรวจภาพชิปโดยนับจำนวนขาชิปจากรูปที่ [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+      - ตรวจภาพชิปโดยนับจำนวนขาชิป เครดิตรูปจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+
+        ![ezcap_ezcap331](images/teardown/ezcap_ezcap331.jpg)
   - USB
     - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
     - Product ID: 0x3200
@@ -347,8 +372,10 @@ interval capture test with ffmpeg
          - Barcode HU3906 (NZXT) / HU3902 (ASUS)
          - PCB
            - PCB NZXT Signal 4K30 เครดิตรูปจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
+
            ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
            - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
+
            ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
