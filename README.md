@@ -389,7 +389,7 @@ interval capture test with ffmpeg
          - iTE [IT6663FN](https://www.ite.com.tw/en/product/view?mid=104) 1-to-2 HDMI2.0/MHL Dual in Active Splitter with EDID RAM
          - EtronTech EJ179W USB 3.0 Host Controller
          - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
-         - รหัส MCU ที่อยู่บนสติ๊กเกอร์ barcode [HU3902](https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Accessory/TUF_GAMING_CAPTURE_BOX-CU4K30/ASUS_FWUpd_1.11_7_M0_061D00_Hex_1480_LocalPack.zip) (ASUS) / HU3906 (NZXT)
+         - รหัส MCU ที่อยู่บนสติ๊กเกอร์ barcode [:floppy_disk: HU3902](https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Accessory/TUF_GAMING_CAPTURE_BOX-CU4K30/ASUS_FWUpd_1.11_7_M0_061D00_Hex_1480_LocalPack.zip) (ASUS) / HU3906 (NZXT)
          - PCB
            - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
 
