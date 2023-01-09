@@ -112,7 +112,7 @@ USB Vendor ID and Product ID
 |Interface|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
 |Interface Type|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
 |Input|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
-|Digital Video to USB Bridge IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[ITE IT9325TE](https://www.ite.com.tw/en/product/view?mid=160)|[ITE IT9323TE](https://www.ite.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|Digital Video to USB Bridge IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[iTE IT9325TE](https://www.iTE.com.tw/en/product/view?mid=160)|[iTE IT9323TE](https://www.iTE.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
@@ -164,7 +164,7 @@ USB Vendor ID and Product ID
   - SDR 3840x2160@30fps
   - SDR 1920x1080@60fps
   - HDR 1920x1080@60fps
-  - Digital Video to USB Bridge IC: [ITE Tech IT9325TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) ข้อมูลจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
+  - Digital Video to USB Bridge IC: [iTE Tech IT9325TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) ข้อมูลจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
   - USB
     - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
     - Product ID: 0x1113
@@ -179,10 +179,10 @@ USB Vendor ID and Product ID
   - USB 3.2 Gen 1x1
   - NV12 3840x2160@30fps
   - NV12 1920x1080@120fps
-  - Digital Video to USB Bridge IC: [ITE Tech IT9323TE Digital Video to USB3 Converter](https://www.ite.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
-      - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป ITE Tech ในชีรีส์ IT9320
+  - Digital Video to USB Bridge IC: [iTE Tech IT9323TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
+      - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป iTE Tech ในชีรีส์ IT9320
         ![ezcap_ezcap331_CRU](images/cru/ezcap_ezcap331_CRU.png)
-      - ตรวจสอบไฟล์ firmware ด้วยโปรแกรม [ImHex](https://imhex.werwolv.net/) พบว่าเป็นไฟล์ firmware สำหรับ ITE Tech
+      - ตรวจสอบไฟล์ firmware ด้วยโปรแกรม [ImHex](https://imhex.werwolv.net/) พบว่าเป็นไฟล์ firmware สำหรับ iTE Tech
         ![ezcap_ezcap331_ImHex](images/imhex/ezcap_ezcap331_ImHex.png)
       - ตรวจภาพชิปโดยนับจำนวนขาชิปจากรูปที่ [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
   - USB
@@ -319,10 +319,29 @@ interval capture test with ffmpeg
 ![HDMI_03_Contact_Sheet](images/result/HDMI_03_Contact_Sheet.jpg)
 
  - การเลือก HDMI capture card
-   - MS2109 budget friendly
-   - 4K input/output ?
-   - Pixel format ?
-   - Color accuracy ?
+   - MS2109 สำหรับหัดเริ่ม recording/streaming ในราคาเบาๆ
+     - ACASIS HD33
+     - HAGiBiS THB01
+   - MS2130 ที่สามารถบันทึก 1080p60 ได้จริง แต่คุณภาพของภาพด้อยกว่า MS2109 เล็กน้อย
+     - Rullz 4K 30Hz U3
+   - iTE IT9320 Digital Video to USB3 Converter กับคุณภาพของภาพที่ดีที่สุด
+     - iTE IT9323TE ราคาพันกว่าบาท
+       - ezcap ezcap331
+     - iTE IT9325TE
+       - AVerMedia BU113
+       - [NZXT Signal 4K30](https://nzxt.com/product/signal-4k30)
+         - รีวิว [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
+       - [ASUS TUF GAMING CAPTURE BOX - CU4K30](https://www.asus.com/accessories/streaming-kits/video-capture-streaming/tuf-gaming-capture-box-cu4k30/)
+         - รีวิว [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
+       - NZXT Signal 4K30 กับ ASUS TUF GAMING CAPTURE BOX - CU4K30 มี PCB layout และชิปต่าง ๆ รวมถึง barcode คล้ายกันมาก
+         - Made in Taiwan
+         - iTE IT68050TE (NZXT) / IT68051TE (ASUS) HDMI Receiver
+         - iTE IT9325TE Digital Video to USB3 Converter
+         - iTE IT6663FN 1-to-2 HDMI2.0/MHL Dual in Active Splitter with EDID RAM
+         - eTronTech EJ179W USB 3.0 Host Controller
+         - MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU
+         - Barcode HU3906 (NZXT) / HU3902 (ASUS)
+   - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
 ## ข้อมูลอ้างอิง
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
