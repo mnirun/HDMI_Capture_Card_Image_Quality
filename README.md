@@ -377,25 +377,26 @@ interval capture test with ffmpeg
            - [EVGA XR1 lite: Affordable 1080p60 HDMI Capture Card For Linux](https://linuxgamecast.com/2021/09/evga-xr1-lite-60-1080p60-hdmi-capture-card-for-linux/)
      - iTE IT9325TE
        - AVerMedia BU113
-       - [NZXT Signal 4K30](https://nzxt.com/product/signal-4k30)
-         - รีวิว [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
        - [ASUS TUF GAMING CAPTURE BOX - CU4K30](https://www.asus.com/accessories/streaming-kits/video-capture-streaming/tuf-gaming-capture-box-cu4k30/)
          - รีวิว [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
-       - NZXT Signal 4K30 กับ ASUS TUF GAMING CAPTURE BOX - CU4K30 มี PCB layout และชิปต่าง ๆ รวมถึง barcode คล้ายกันมาก จนอดคิดไม่ได้ว่ามาจากโรงงานเดียวกัน
+       - [NZXT Signal 4K30](https://nzxt.com/product/signal-4k30)
+         - รีวิว [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
+       - ASUS TUF GAMING CAPTURE BOX - CU4K30 กับ NZXT Signal 4K30 มี PCB layout, ชิปต่าง ๆ รวมถึงรูปแบบสติ๊กเกอร์บน PCB คล้ายกันมาก จนอดคิดไม่ได้ว่ามาจากโรงงานเดียวกัน
+         - ASUS CU4K30 เปิดตัวต้นปี [2021](https://edgeup.asus.com/2021/tuf-gaming-capture-box-cu4k30/) / NXZT 4K30 เปิดตัวกลางปี [2022](https://twitter.com/nzxt/status/1541802049632878592)
          - Made in Taiwan
-         - iTE IT68050TE (NZXT) / IT68051TE (ASUS) HDMI Receiver
-         - iTE IT9325TE Digital Video to USB3 Converter
-         - iTE IT6663FN 1-to-2 HDMI2.0/MHL Dual in Active Splitter with EDID RAM
+         - iTE [IT68051TE](https://www.ite.com.tw/en/product/view?mid=102) (ASUS) / IT68050TE (NZXT) HDMI Receiver
+         - iTE [IT9325TE](https://www.ite.com.tw/en/product/view?mid=160) Digital Video to USB3 Converter
+         - iTE [IT6663FN](https://www.ite.com.tw/en/product/view?mid=104) 1-to-2 HDMI2.0/MHL Dual in Active Splitter with EDID RAM
          - EtronTech EJ179W USB 3.0 Host Controller
          - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
-         - Barcode HU3906 (NZXT) / HU3902 (ASUS)
+         - รหัส MCU ที่อยู่บนสติ๊กเกอร์ barcode [HU3902](https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Accessory/TUF_GAMING_CAPTURE_BOX-CU4K30/ASUS_FWUpd_1.11_7_M0_061D00_Hex_1480_LocalPack.zip) (ASUS) / HU3906 (NZXT)
          - PCB
-           - PCB NZXT Signal 4K30 เครดิตรูปจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
-
-             ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
            - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
 
              ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
+           - PCB NZXT Signal 4K30 เครดิตรูปจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
+
+             ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
 ## ข้อมูลอ้างอิง
