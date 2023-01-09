@@ -208,7 +208,7 @@ USB Vendor ID and Product ID
       |**640 × 480**|-|60|60|-|-|
   - Audio: HDMI stereo 16bit 48KHz
   - Scaling: Hardware downscaling and upscaling to 1080p
-  - Digital Video to USB Bridge IC: [iTE Tech IT9325TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) เครดิตรูปจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
+  - Digital Video to USB Bridge IC: [iTE Tech IT9325TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) เครดิตรูปต้นฉบับจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
     
     ![AVerMedia_BU113](images/teardown/AVerMedia_BU113.jpg)
   - USB
@@ -249,7 +249,7 @@ USB Vendor ID and Product ID
       - ตรวจสอบไฟล์ firmware ด้วยโปรแกรม [ImHex](https://imhex.werwolv.net/) พบว่าเป็นไฟล์ firmware สำหรับ iTE Tech
 
         ![ezcap_ezcap331_ImHex](images/imhex/ezcap_ezcap331_ImHex.png)
-      - ตรวจภาพชิปโดยนับจำนวนขาชิป เครดิตรูปจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
+      - ตรวจภาพชิปโดยนับจำนวนขาชิป เครดิตรูปต้นฉบับจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
 
         ![ezcap_ezcap331](images/teardown/ezcap_ezcap331.jpg)
   - USB
@@ -299,7 +299,40 @@ USB Vendor ID and Product ID
  
  ![Rullz_MS2130](images/device/Rullz_MS2130.png)
  
-  - USB 3.2 Gen 1x1
+  - Interface
+    - USB: USB 3.2 Gen 1x1 Type-A male
+    - HDMI: HDMI 1.4b female
+  - Streaming & Recording Resolutions:
+    - USB 3.0
+      
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|-|-|60|-|-|
+      |**1600 × 1200**|-|-|60|-|-|
+      |**1360 × 768**|-|-|60|-|-|
+      |**1280 × 1024**|-|-|60|-|-|
+      |**1280 × 960**|-|-|60|-|-|
+      |**1280 × 720**|-|-|60|-|-|
+      |**1024 × 768**|-|-|60|-|-|
+      |**800 × 600**|-|-|60|-|-|
+      |**720 × 576**|-|-|60|-|-|
+      |**720 × 480**|-|-|60|-|-|
+      |**640 × 480**|-|-|60|-|-|
+    - USB 2.0
+      
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|50|-|-|-|-|
+      |**1600 × 1200**|50|-|-|-|-|
+      |**1360 × 768**|60|-|-|-|-|
+      |**1280 × 1024**|60|-|-|-|-|
+      |**1280 × 960**|60|-|-|-|-|
+      |**1280 × 720**|60|-|-|-|-|
+      |**1024 × 768**|60|-|-|-|-|
+      |**800 × 600**|60|-|-|-|-|
+      |**720 × 576**|60|-|-|-|-|
+      |**720 × 480**|60|-|-|-|-|
+      |**640 × 480**|60|-|-|-|-|
   - Digital Video to USB Bridge IC: [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
   - USB
     - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
@@ -432,10 +465,10 @@ interval capture test with ffmpeg
          - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
          - รหัส MCU ที่อยู่บนสติ๊กเกอร์ barcode [:floppy_disk: HU3902](https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Accessory/TUF_GAMING_CAPTURE_BOX-CU4K30/ASUS_FWUpd_1.11_7_M0_061D00_Hex_1480_LocalPack.zip) (ASUS) / HU3906 (NZXT)
          - PCB
-           - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
+           - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปต้นฉบับจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
 
              ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
-           - PCB NZXT Signal 4K30 เครดิตรูปจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
+           - PCB NZXT Signal 4K30 เครดิตรูปต้นฉบับจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
 
              ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
