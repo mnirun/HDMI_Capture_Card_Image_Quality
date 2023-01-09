@@ -341,6 +341,8 @@ interval capture test with ffmpeg
          - eTronTech EJ179W USB 3.0 Host Controller
          - MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU
          - Barcode HU3906 (NZXT) / HU3902 (ASUS)
+         ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
+         ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
 ## ข้อมูลอ้างอิง
