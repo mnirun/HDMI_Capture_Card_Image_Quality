@@ -337,8 +337,6 @@ USB Vendor ID and Product ID
   - USB
     - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
     - Product ID: 0x2130
-  - YUY2 1920x1080@60fps
-  - MJPEG 1290x1080@60fps
   - Firmware Update:
     - [UltraSemi MS2130 MS2131 Reference Design](https://github.com/ultrasemier/ms213x_community)
     - [Macrosilicon MS2106/MS2109/MS2130 research](https://github.com/BertoldVdb/ms-tools)
