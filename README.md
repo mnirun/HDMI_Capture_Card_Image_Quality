@@ -463,7 +463,7 @@ interval capture test with ffmpeg
          - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
          - รหัส MCU ที่อยู่บนสติ๊กเกอร์ barcode [:floppy_disk: HU3902](https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Accessory/TUF_GAMING_CAPTURE_BOX-CU4K30/ASUS_FWUpd_1.11_7_M0_061D00_Hex_1480_LocalPack.zip) (ASUS) / HU3906 (NZXT)
          - PCB
-           - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปต้นฉบับจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
+           - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปต้นฉบับจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/#:~:text=▲-,PCB主板正面一览)
 
              ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
            - PCB NZXT Signal 4K30 เครดิตรูปต้นฉบับจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
