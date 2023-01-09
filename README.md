@@ -325,8 +325,12 @@ interval capture test with ffmpeg
    - MS2130 ที่สามารถบันทึก 1080p60 ได้จริง แต่คุณภาพของภาพด้อยกว่า MS2109 เล็กน้อย
      - Rullz 4K 30Hz U3
    - iTE IT9320 Digital Video to USB3 Converter กับคุณภาพของภาพที่ดีที่สุด
-     - iTE IT9323TE ราคาพันกว่าบาท
-       - ezcap ezcap331
+     - iTE IT9323TE 
+       - ezcap ezcap331 ราคาพันกว่าบาท
+       - EVGA XR1 lite
+         - รีวิว
+           - [EVGA XR1 Lite Review – Setting A New Standard](https://cultists.network/4859/evga-xr1-lite/)
+           - [EVGA XR1 lite: Affordable 1080p60 HDMI Capture Card For Linux](https://linuxgamecast.com/2021/09/evga-xr1-lite-60-1080p60-hdmi-capture-card-for-linux/)
      - iTE IT9325TE
        - AVerMedia BU113
        - [NZXT Signal 4K30](https://nzxt.com/product/signal-4k30)
@@ -341,8 +345,11 @@ interval capture test with ffmpeg
          - EtronTech EJ179W USB 3.0 Host Controller
          - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
          - Barcode HU3906 (NZXT) / HU3902 (ASUS)
-         ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
-         ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
+         - PCB
+           - PCB NZXT Signal 4K30 เครดิตรูปจาก [QUASAR ZONE: NZXT Signal 4K30 캡처카드](https://quasarzone.com/bbs/qc_qsz/views/1362936)
+           ![NZXT_4K30](images/teardown/NZXT_4K30.jpg)
+           - PCB ASUS TUF GAMING CAPTURE BOX - CU4K30 เครดิตรูปจาก [华硕CAPTURE BOX-CU4K30视频采集盒评测](https://www.gushiciku.cn/dl/1pO0M/)
+           ![ASUS_CU4K30](/images/teardown/ASUS_CU4K30.jpg)
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
 ## ข้อมูลอ้างอิง
