@@ -165,7 +165,7 @@ USB Vendor ID and Product ID
     - HDMI: HDMI 2.0 female
   - Streaming & Recording Resolutions:
     - USB 3.0
-      |&nbsp;|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**3840 × 2160**|-|30|-|-|-|
       |**2560 × 1440**|-|60|60|-|-|
@@ -175,7 +175,7 @@ USB Vendor ID and Product ID
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
     - USB 2.0
-      |&nbsp;|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**1280 × 720**|-|30|30|-|-|
       |**720 × 576**|-|50|50|-|-|
@@ -197,9 +197,24 @@ USB Vendor ID and Product ID
 
 ![ezcap_ezcap331](images/device/ezcap_ezcap331.png)
 
-  - USB 3.2 Gen 1x1
-  - NV12 3840x2160@30fps
-  - NV12 1920x1080@120fps
+  - Interface
+    - USB: USB 3.2 Gen 1x1 Type-C female
+    - HDMI: HDMI 1.4b male
+  - Streaming & Recording Resolutions:
+    - USB 3.0
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**3840 × 2160**|-|30|-|-|-|
+      |**2560 × 1440**|-|60|50|-|-|
+      |**1920 × 1080**|-|120|60|30|-|
+      |**1280 × 720**|-|60|60|60|-|
+    - USB 2.0
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1280 × 720**|-|30|30|-|-|
+      |**720 × 576**|-|50|50|-|-|
+      |**720 × 480**|-|60|60|-|-|
+      |**640 × 480**|-|60|60|-|-|
   - Digital Video to USB Bridge IC: [iTE Tech IT9323TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
       - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป iTE Tech ในชีรีส์ IT9320
 
