@@ -118,7 +118,25 @@ USB Vendor ID and Product ID
 
 ![ACASIS_HD33](images/device/ACASIS_HD33.png)
 
- - USB 2.0
+  - Interface
+    - USB: USB 2.0 Type-C female
+    - HDMI: HDMI 1.4b female
+  - Streaming & Recording Resolutions:
+    - USB 2.0
+
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|60|-|5|-|-|
+      |**1600 × 1200**|60|-|5|-|-|
+      |**1360 × 768**|60|-|8|-|-|
+      |**1280 × 1024**|60|-|8|-|-|
+      |**1280 × 960**|60|-|8|-|-|
+      |**1280 × 720**|60|-|10|-|-|
+      |**1024 × 768**|60|-|10|-|-|
+      |**800 × 600**|60|-|20|-|-|
+      |**720 × 576**|60|-|25|-|-|
+      |**720 × 480**|60|-|30|-|-|
+      |**640 × 480**|60|-|30|-|-|
  - Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
  - USB
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
@@ -134,7 +152,12 @@ USB Vendor ID and Product ID
 
 ![ACASIS_U3SDH](images/device/ACASIS_U3SDH.png)
 
-  - USB 3.2 Gen 1x1
+  - Interface
+    - USB: USB 3.2 Gen 1x1 Type-B female
+    - HDMI: HDMI 1.4 female
+  - Streaming & Recording Resolutions:
+    - USB 3.0
+    - USB 2.0
   - UVA & UVC
   - Digital Video to USB Bridge IC: [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
   - ODM/OEM
@@ -244,7 +267,25 @@ USB Vendor ID and Product ID
 
 ![HAGiBiS_THB01](images/device/HAGiBiS_THB01.png)
 
-  - USB 2.0
+  - Interface
+    - USB: USB 2.0 Type-C female
+    - HDMI: HDMI 1.4b female
+  - Streaming & Recording Resolutions:
+    - USB 2.0
+
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|60|-|5|-|-|
+      |**1600 × 1200**|60|-|5|-|-|
+      |**1360 × 768**|60|-|8|-|-|
+      |**1280 × 1024**|60|-|8|-|-|
+      |**1280 × 960**|60|-|8|-|-|
+      |**1280 × 720**|60|-|10|-|-|
+      |**1024 × 768**|60|-|10|-|-|
+      |**800 × 600**|60|-|20|-|-|
+      |**720 × 576**|60|-|25|-|-|
+      |**720 × 480**|60|-|30|-|-|
+      |**640 × 480**|60|-|30|-|-|
   - Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
  - USB
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
