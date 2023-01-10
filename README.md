@@ -1,4 +1,4 @@
-# HDMI Capture Card Image Quality
+# HDMI Capture Card Image Quality (Work in pogress, updated 2023/01/10)
 HDMI Capture Card Image Quality
 
 - ความเป็นมาและวัตถุประสงค์
@@ -474,6 +474,8 @@ interval capture test with ffmpeg
      - HAGiBiS THB01
    - MS2130 ที่สามารถบันทึก 1080p60 ได้จริง แต่คุณภาพของภาพด้อยกว่า MS2109 เล็กน้อย
      - Rullz 4K 30Hz U3
+   - Apogee HV-HCA12
+     - เป็น capture card ตัวเดียวที่สามารถบันทึก MJPEG 1920x1080p60 ในการเชื่อมต่อแบบ USB 2.0 ได้ แค่ก็ต้องยอมรับว่าคุณภาพของภาพด้อยที่สุดเช่นกัน
    - iTE IT9320 Digital Video to USB3 Converter กับคุณภาพของภาพที่ดีที่สุด
      - iTE IT9323TE 
        - ezcap ezcap331 ราคาพันกว่าบาท
