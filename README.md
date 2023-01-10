@@ -137,6 +137,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|25/20/10/5|-|-|
       |**720 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
       |**640 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
+ - Audio: HDMI 1-channel embedded audio, 16bit 96KHz
  - USB ID
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
    - Product ID: 0x2109
@@ -171,6 +172,7 @@ USB Vendor ID and Product ID
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**640 × 360**|-|-|60|-|-|
+  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
   - USB ID
     - UVC 1.10
       - Vendor ID: 0x0403 (Future Technology Devices International Limited)
@@ -200,6 +202,7 @@ USB Vendor ID and Product ID
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**1920 × 1080**|60|-|-|-|-|
+ - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
  - USB ID
    - Vendor ID: 0x1E4E (eEver Technology, Inc.)
    - Product ID: 0x7016
@@ -240,7 +243,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|-|50|50|-|-|
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
-  - Audio: HDMI stereo 16bit 48KHz
+  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
   - Scaling: Hardware downscaling and upscaling to 1080p
   - USB ID
     - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
@@ -276,6 +279,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|-|50|50|-|-|
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
+  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
   - USB ID
     - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
     - Product ID: 0x3200
@@ -320,6 +324,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|25/20/10/5|-|-|
       |**720 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
       |**640 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
+  - Audio: HDMI 1-channel embedded audio, 16bit 96KHz
   - USB
     - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
     - Product ID: 0x2109
@@ -367,6 +372,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|-|-|-|
       |**720 × 480**|60/50/30/20/10|-|-|-|-|
       |**640 × 480**|60/50/30/20/10|-|-|-|-|
+  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
   - USB ID
     - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
     - Product ID: 0x2130
