@@ -113,8 +113,12 @@ USB Vendor ID and Product ID
 |**USB Port**|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
 |**HDMI Input**|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
 |**Bridge IC**|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[eEver EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[iTE IT9325TE](https://www.iTE.com.tw/en/product/view?mid=160)|[iTE IT9323TE](https://www.iTE.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
-|**Bridge IC Type**|ASIC|FPGA|ASIC|ASIC|ASIC|ASIC|ASIC|
+|**Bridge IC Type**|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|
 |**HDR Capture**|-|-|-|:heavy_check_mark:|-|-|-|
+|**HDMI Passthrough**|:heavy_check_mark:|-|:heavy_check_mark:|-|-|:heavy_check_mark:|-|
+|**Audio Line**|:microphone:|:microphone: + :headphones:|:microphone: + :headphones:|-|-|:headphones:|-|
+|**Companion App**|-|-|-|[RECentral](https://www.avermedia.com/th/support/download?model_number=BU113)|[ezcap Link](https://www.ezcap.com/index.php/product/ezcaplink.html)|-|-|
+|**Released**|2021|2022|2018|2021|2021|2021|2022|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
