@@ -108,11 +108,13 @@ USB Vendor ID and Product ID
   - [Rullz HDMI Video Capture 4K 30Hz U3 - MS2130](https://www.aliexpress.com/i/1005004883158574.html)
 
 |&nbsp;|ACASIS HD33|ACASIS U3SDH|Apogee HV-HCA12|AVerMedia BU113|ezcap ezcap331|HAGiBiS THB01|Rullz 4K U3 30Hz|
-|---|---|---|---|---|---|---|---|
-|Interface|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
-|Interface Type|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
-|Input|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
-|Digital Video to USB Bridge IC|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[iTE IT9325TE](https://www.iTE.com.tw/en/product/view?mid=160)|[iTE IT9323TE](https://www.iTE.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**USB Interface**|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
+|**USB Port**|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
+|**HDMI Input**|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
+|**Bridge IC**|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[eEver EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[iTE IT9325TE](https://www.iTE.com.tw/en/product/view?mid=160)|[iTE IT9323TE](https://www.iTE.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
+|**Bridge IC Type**|ASIC|FPGA|ASIC|ASIC|ASIC|ASIC|ASIC|
+|**HDR Capture**|-|-|-|:heavy_check_mark:|-|-|-|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
@@ -206,12 +208,12 @@ USB Vendor ID and Product ID
  - USB ID
    - Vendor ID: 0x1E4E (eEver Technology, Inc.)
    - Product ID: 0x7016
- - Digital Video to USB Bridge IC: [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
+ - Digital Video to USB Bridge IC: [eEver EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
  - HDMI passthrough
  - Line-out
  - ODM/OEM
    - [CreHiVi HV-HCA12](http://www.hi-video.com.cn/Crehivi/pro/Video_Capture/2018/0910/119.html)
- - รีวิวชิป EtronTech EJ511
+ - รีวิวชิป eEver EJ511
    - [Razer Ripsaw HD Review](https://www.weistang.com/thread-115925-1-1.html)
    - [Rullz USB 3.0 Navy U3 HDMI Capture Card](https://blog.sreb.me/2021/03/03/rullz-navy-u3-review/)
    - [USB-Capture-Card-Reversing](https://github.com/ArsenioDev/USB-Capture-Card-Reversing)
@@ -501,7 +503,7 @@ interval capture test with ffmpeg
          - iTE [IT68051TE](https://www.ite.com.tw/en/product/view?mid=102) (ASUS) / IT68050TE (NZXT) HDMI Receiver
          - iTE [IT9325TE](https://www.ite.com.tw/en/product/view?mid=160) Digital Video to USB3 Converter
          - iTE [IT6663FN](https://www.ite.com.tw/en/product/view?mid=104) 1-to-2 HDMI2.0/MHL Dual in Active Splitter with EDID RAM
-         - EtronTech EJ179W USB 3.0 Host Controller
+         - eEver EJ179W USB 3.0 Host Controller
          - [MindMotion MM32L073 ARM Cortex-M0 48 MHz MCU](https://www.mindmotion.com.cn/products/mm32mcu/mm32l/mm32l_others/mm32l0xxn/)
          - รหัส MCU ที่อยู่บนสติ๊กเกอร์ barcode [:floppy_disk: HU3902](https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Accessory/TUF_GAMING_CAPTURE_BOX-CU4K30/ASUS_FWUpd_1.11_7_M0_061D00_Hex_1480_LocalPack.zip) (ASUS) / HU3906 (NZXT)
          - PCB
