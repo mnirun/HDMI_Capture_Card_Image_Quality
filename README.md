@@ -101,7 +101,7 @@ USB Vendor ID and Product ID
 
   - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
   - [ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH](https://www.acasis.com/collections/acasis-capture-card/products/acasis-2-channel-sdi-hdmi-compatible-hd-video-capture-card-usb3-0-1920-1080p-for-game-record-live-stream-for-ps4-xbox-one-switch)
-  - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
+  - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://web.archive.org/web/20220701161953/https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
   - [AVerMedia Live Streamer CAP 4K - BU113](https://www.avermedia.com/en/product-detail/bu113)
   - [ezcap CAM LINK 4K - ezcap331](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)
   - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
