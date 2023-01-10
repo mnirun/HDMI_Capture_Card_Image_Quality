@@ -118,7 +118,7 @@ USB Vendor ID and Product ID
 |**HDMI Passthrough**|:heavy_check_mark:|-|:heavy_check_mark:|-|-|:heavy_check_mark:|-|
 |**Audio Line**|:microphone:|:microphone: + :headphones:|:microphone: + :headphones:|-|-|:headphones:|-|
 |**Companion App**|-|-|-|[RECentral](https://www.avermedia.com/th/support/download?model_number=BU113)|[ezcap Link](https://www.ezcap.com/index.php/product/ezcaplink.html)|-|-|
-|**Released**|2021|2022|2018|2021|2021|2021|2022|
+|**Released**|2021|2022|2020|2021|2021|2021|2022|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
