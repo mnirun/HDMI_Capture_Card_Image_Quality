@@ -186,8 +186,23 @@ USB Vendor ID and Product ID
 #### Apogee HDMI Capture USB 3.0 - HV-HCA12
 
 ![Apogee_HV](images/device/Apogee_HV-HCA12.png)
-
- - USB 3.2 Gen 1x1
+  - Interface
+    - USB: USB 3.2 Gen 1x1 Type-A female
+    - HDMI: HDMI 1.3a female
+  - Streaming & Recording Resolutions:
+    - USB 3.0
+      
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|60|-|60|-|-|
+    - USB 2.0
+      
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|60|-|-|-|-|
+ - USB ID
+   - Vendor ID: 0x1E4E (eEver Technology, Inc.)
+   - Product ID: 0x7016
  - Digital Video to USB Bridge IC: [EtronTech EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)
  - HDMI passthrough
  - Line-out
