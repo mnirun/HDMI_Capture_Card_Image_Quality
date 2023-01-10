@@ -137,10 +137,10 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|25/20/10/5|-|-|
       |**720 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
       |**640 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
- - Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
- - USB
+ - USB ID
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
    - Product ID: 0x2109
+- Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
  - HDMI passthrough
  - Line-in
  - ODM/OEM
@@ -157,8 +157,27 @@ USB Vendor ID and Product ID
     - HDMI: HDMI 1.4 female
   - Streaming & Recording Resolutions:
     - USB 3.0
+      
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**1920 × 1080**|-|-|60|-|-|
+      |**1360 × 768**|-|-|60|-|-|
+      |**1280 × 1024**|-|-|60|-|-|
+      |**1280 × 720**|-|-|60|-|-|
+      |**1024 × 768**|-|-|60|-|-|
+      |**800 × 600**|-|-|60|-|-|
     - USB 2.0
-  - UVA & UVC
+      
+      |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
+      |:---:|:---:|:---:|:---:|:---:|:---:|
+      |**640 × 360**|-|-|60|-|-|
+  - USB ID
+    - UVC 1.10
+      - Vendor ID: 0x0403 (Future Technology Devices International Limited)
+      - Product ID: 0x602A
+    - UAC 1.0
+      - Vendor ID: 0x0C76 (Solid State System Co., Ltd.)
+      - Product ID: 0x1197
   - Digital Video to USB Bridge IC: [Lattice ECP3-17 FPGA](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)
   - ODM/OEM
     - [PURPLELEC SDI & HDMI Input 1080P/1080i FHD External Video Capture Equipment - PEC-U3HDS](https://www.purplelec.com/products/makeup-modern-dresser-wood-dresser-with-mirror-51)
@@ -208,12 +227,12 @@ USB Vendor ID and Product ID
       |**640 × 480**|-|60|60|-|-|
   - Audio: HDMI stereo 16bit 48KHz
   - Scaling: Hardware downscaling and upscaling to 1080p
+  - USB ID
+    - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
+    - Product ID: 0x1113
   - Digital Video to USB Bridge IC: [iTE Tech IT9325TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) เครดิตรูปต้นฉบับจาก [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
     
     ![AVerMedia_BU113](images/teardown/AVerMedia_BU113.jpg)
-  - USB
-    - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
-    - Product ID: 0x1113
   - รีวิว
     - [AVerMedia Live Streamer CAP 4K Review (BU113) – So Much More Than a Cam Link!](https://streamguides.gg/2021/10/avermedia-live-streamer-cap-4k-review-bu113-so-much-more-than-a-cam-link/)
     - [에버미디어 LIVE STREAMER CAP 4K : 고퀄리티 스트리밍을 원한다면](https://coolenjoy.net/bbs/review/901544)
@@ -242,6 +261,9 @@ USB Vendor ID and Product ID
       |**720 × 576**|-|50|50|-|-|
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
+  - USB ID
+    - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
+    - Product ID: 0x3200
   - Digital Video to USB Bridge IC: [iTE Tech IT9323TE Digital Video to USB3 Converter](https://www.iTE.com.tw/en/product/view?mid=160) คาดเดาจากการตรวจสอบดังนี้
       - [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) แจ้งว่าเป็นชิป iTE Tech ในชีรีส์ IT9320
 
@@ -252,9 +274,6 @@ USB Vendor ID and Product ID
       - ตรวจภาพชิปโดยนับจำนวนขาชิป เครดิตรูปต้นฉบับจาก [EZCap GameDock Ultra Review](https://cultists.network/9532/ezcap-gamedock-ultra-review/)
 
         ![ezcap_ezcap331](images/teardown/ezcap_ezcap331.jpg)
-  - USB
-    - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
-    - Product ID: 0x3200
   - ODM/OEM
     - [GERA SOLO](https://gera.ltd/gera-solo-pocket-4k-hdmi-to-usb3-1-capture-card/)
     - [Pyle PLINK2](https://www.pyleaudio.com/sku/PLINK2/Camera-Link-4K-USB31-GEN-HDMI-Video-Capture-Device---Live-Streaming-Record-Capture,-USB-31-GEN1-Video-Recording)
@@ -286,10 +305,10 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|25/20/10/5|-|-|
       |**720 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
       |**640 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
+  - USB
+    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
+    - Product ID: 0x2109
   - Digital Video to USB Bridge IC: [MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)
- - USB
-   - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
-   - Product ID: 0x2109
   - HDMI passthrough
   - Line-out
   - Firmware Update
@@ -333,10 +352,10 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|-|-|-|
       |**720 × 480**|60/50/30/20/10|-|-|-|-|
       |**640 × 480**|60/50/30/20/10|-|-|-|-|
-  - Digital Video to USB Bridge IC: [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
-  - USB
+  - USB ID
     - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
     - Product ID: 0x2130
+  - Digital Video to USB Bridge IC: [MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)
   - Firmware Update:
     - [UltraSemi MS2130 MS2131 Reference Design](https://github.com/ultrasemier/ms213x_community)
     - [Macrosilicon MS2106/MS2109/MS2130 research](https://github.com/BertoldVdb/ms-tools)
