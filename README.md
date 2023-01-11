@@ -99,18 +99,10 @@ USB Vendor ID and Product ID
 
 ### HDMI capture card
 
-  - [ACASIS 4K HDMI Video Capture Card - HD33](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)
-  - [ACASIS 2 Channel SDI/HDMI HD Video Capture Card - AC-U3SDH](https://www.acasis.com/collections/acasis-capture-card/products/acasis-2-channel-sdi-hdmi-compatible-hd-video-capture-card-usb3-0-1920-1080p-for-game-record-live-stream-for-ps4-xbox-one-switch)
-  - [Apogee HDMI Capture USB 3.0 - HV-HCA12](https://web.archive.org/web/20220701161953/https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)
-  - [AVerMedia Live Streamer CAP 4K - BU113](https://www.avermedia.com/en/product-detail/bu113)
-  - [ezcap CAM LINK 4K - ezcap331](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)
-  - [HAGiBiS Video Capture Card - THB01](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)
-  - [Rullz HDMI Video Capture 4K 30Hz U3 - MS2130](https://www.aliexpress.com/i/1005004883158574.html)
-
 |&nbsp;|ACASIS HD33|ACASIS U3SDH|Apogee HV-HCA12|AVerMedia BU113|ezcap ezcap331|HAGiBiS THB01|Rullz 4K U3 30Hz|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Interface**|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
-|**Interface Port**|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
+|**Interface Type**|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
 |**Video Input**|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
 |**Bridge IC**|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[eEver EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[iTE IT9325TE](https://www.iTE.com.tw/en/product/view?mid=160)|[iTE IT9323TE](https://www.iTE.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
 |**Bridge IC Type**|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|
@@ -120,6 +112,8 @@ USB Vendor ID and Product ID
 |**Audio Line**|:microphone:|:microphone: + :headphones:|:microphone: + :headphones:|-|-|:headphones:|-|
 |**Companion App**|-|-|-|[RECentral](https://www.avermedia.com/th/support/download?model_number=BU113)|[ezcap Link](https://www.ezcap.com/index.php/product/ezcaplink.html)|-|-|
 |**Released**|2021|2022|2020|2021|2021|2021|2022|
+|**Info**|[Link](https://www.acasis.com/collections/acasis-capture-card/products/acasis-4k-type-c-to-hdmi-compatible-video-capture-card-1080p-game-capture-card-recorder-box-device-for-live-streaming)|[Link](https://www.acasis.com/collections/acasis-capture-card/products/acasis-2-channel-sdi-hdmi-compatible-hd-video-capture-card-usb3-0-1920-1080p-for-game-record-live-stream-for-ps4-xbox-one-switch)|[Link](https://web.archive.org/web/20220701161953/https://www.digital2home.com/apogee-hdmi-capture-usb-3.0-hv-hca12)|[Link](https://www.avermedia.com/en/product-detail/bu113)|[Link](https://www.ezcap.com/index.php/product/ezcap331camlink4k.html)|[Link](http://www.hagibis.com.cn/video-capture-card-p00193p1.html)|[Link](https://www.aliexpress.com/i/1005004883158574.html)|
+|&nbsp;|**ACASIS HD33**|**ACASIS U3SDH**|**Apogee HV-HCA12**|**AVerMedia BU113**|**ezcap ezcap331**|**HAGiBiS THB01**|**Rullz 4K U3 30Hz**|
 
 #### ACASIS 4K HDMI Video Capture Card - HD33
 
