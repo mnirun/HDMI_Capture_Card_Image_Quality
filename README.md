@@ -144,7 +144,7 @@ USB Vendor ID and Product ID
  - HDMI passthrough
  - Line-in
  - ODM/OEM
-   - [PURPLELEC 720P/1080P HDMI Loop Out HD External Video Capture Equipment - PEC-HD33](https://www.purplelec.com/products/720p-1080p-hdmi-loop-out-hd-external-video-capture-equipment)
+   - [PURPLELEC 4Kp30 HDMI Loop I/O External Video Capture Card - PEC-HD33](https://www.purplelec.com/products/4kp30-hdmi-loop-i-o-external-video-capture-card)
  - Firmware Update
    - [PURPLELEC DOWNLOAD - (PEC-HD31,PEC-HD33) USB 1080P Capture Card Chip Update [Win]](https://www.purplelec.com/downloads/)
 
