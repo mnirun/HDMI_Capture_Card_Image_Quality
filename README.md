@@ -109,9 +109,9 @@ USB Vendor ID and Product ID
 
 |&nbsp;|ACASIS HD33|ACASIS U3SDH|Apogee HV-HCA12|AVerMedia BU113|ezcap ezcap331|HAGiBiS THB01|Rullz 4K U3 30Hz|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**USB Interface**|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
-|**USB Port**|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
-|**HDMI Input**|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
+|**Interface**|USB 2.0|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 3.2 Gen 1|USB 2.0|USB 3.2 Gen 1|
+|**Interface Port**|USB-C female|USB-B female|USB-A female|USB-C female|USB-A male|USB-C female|USB-A male|
+|**Video Input**|HDMI 1.4b|HDMI 1.4|HDMI 1.3a|HDMI 2.0|HDMI 1.4b|HDMI 1.4b|HDMI 1.4b|
 |**Bridge IC**|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[Lattice ECP3-17](https://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeECP3)|[eEver EJ511](https://www.eevertech.com/product_d.php?lang=en&tb=1&id=1045)|[iTE IT9325TE](https://www.iTE.com.tw/en/product/view?mid=160)|[iTE IT9323TE](https://www.iTE.com.tw/en/product/view?mid=160)|[MacroSilicon MS2109](http://en.macrosilicon.com/info.asp?base_id=2&third_id=50)|[MacroSilicon MS2130](http://www.ultrasemi.com/index.php/td-3-48-72-446)|
 |**Bridge IC Type**|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|[ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)|
 |**Bridge IC Package**|QFN48 (7×7mm)|256-ball ftBGA (17×17mm)|QFN88 (10×10mm)|144-pin TQFP (16×16mm)|144-pin TQFP (16×16mm)|QFN48 (7×7mm)|QFN64 (9×9mm)|
@@ -125,10 +125,9 @@ USB Vendor ID and Product ID
 
 ![ACASIS_HD33](images/device/ACASIS_HD33.png)
 
-  - Interface
-    - USB: USB 2.0 Type-C female
-    - HDMI: HDMI 1.4b female
-  - Streaming & Recording Resolutions:
+  - Interface: USB 2.0 Type-C female
+  - Video Input: HDMI 1.4b female
+  - UVC Video Output Resolution:
     - USB 2.0
 
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -144,7 +143,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|25/20/10/5|-|-|
       |**720 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
       |**640 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
- - Audio: HDMI 1-channel embedded audio, 16bit 96KHz
+ - UAC Audio Output Format: Mono / 16-bit / 96000Hz
  - USB ID
    - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
    - Product ID: 0x2109
@@ -160,10 +159,9 @@ USB Vendor ID and Product ID
 
 ![ACASIS_U3SDH](images/device/ACASIS_U3SDH.png)
 
-  - Interface
-    - USB: USB 3.2 Gen 1x1 Type-B female
-    - HDMI: HDMI 1.4 female
-  - Streaming & Recording Resolutions:
+  - Interface: USB 3.2 Gen 1x1 Type-B female
+  - Video Input: HDMI 1.4 female
+  - UVC Video Output Resolution:
     - USB 3.0
       
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -179,7 +177,7 @@ USB Vendor ID and Product ID
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**640 × 360**|-|-|60|-|-|
-  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
+  - UAC Audio Output Format: Stereo / 16-bit / 48000Hz
   - USB ID
     - UVC 1.10
       - Vendor ID: 0x0403 (Future Technology Devices International Limited)
@@ -195,10 +193,10 @@ USB Vendor ID and Product ID
 #### Apogee HDMI Capture USB 3.0 - HV-HCA12
 
 ![Apogee_HV](images/device/Apogee_HV-HCA12.png)
-  - Interface
-    - USB: USB 3.2 Gen 1x1 Type-A female
-    - HDMI: HDMI 1.3a female
-  - Streaming & Recording Resolutions:
+
+  - Interface: USB 3.2 Gen 1x1 Type-A female
+  - Video Input: HDMI 1.3a female
+  - UVC Video Output Resolution:
     - USB 3.0
       
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -209,7 +207,7 @@ USB Vendor ID and Product ID
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
       |:---:|:---:|:---:|:---:|:---:|:---:|
       |**1920 × 1080**|60|-|-|-|-|
- - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
+ - UAC Audio Output Format: Stereo / 16-bit / 48000Hz
  - USB ID
    - Vendor ID: 0x1E4E (eEver Technology, Inc.)
    - Product ID: 0x7016
@@ -227,10 +225,9 @@ USB Vendor ID and Product ID
 
 ![AVerMedia_BU113](images/device/AVerMedia_BU113.png)
 
-  - Interface
-    - USB: USB 3.2 Gen 1x1 Type-C female
-    - HDMI: HDMI 2.0 female
-  - Streaming & Recording Resolutions:
+  - Interface: USB 3.2 Gen 1x1 Type-C female
+  - Video Input: HDMI 2.0 female
+  - UVC Video Output Resolution:
     - USB 3.0
       
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -250,7 +247,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|-|50|50|-|-|
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
-  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
+  - UAC Audio Output Format: Stereo / 16-bit / 48000Hz
   - Scaling: Hardware downscaling and upscaling to 1080p
   - USB ID
     - Vendor ID: 0x07CA (AVerMedia Technologies, Inc.)
@@ -266,10 +263,9 @@ USB Vendor ID and Product ID
 
 ![ezcap_ezcap331](images/device/ezcap_ezcap331.png)
 
-  - Interface
-    - USB: USB 3.2 Gen 1x1 Type-C female
-    - HDMI: HDMI 1.4b male
-  - Streaming & Recording Resolutions:
+  - Interface: USB 3.2 Gen 1x1 Type-C female
+  - Video Input: HDMI 1.4b male
+  - UVC Video Output Resolution:
     - USB 3.0
       
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -286,7 +282,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|-|50|50|-|-|
       |**720 × 480**|-|60|60|-|-|
       |**640 × 480**|-|60|60|-|-|
-  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
+  - UAC Audio Output Format: Stereo / 16-bit / 48000Hz
   - USB ID
     - Vendor ID: 0x32ED (Shenzhen Forwardvideo Technology Co., Ltd.)
     - Product ID: 0x3200
@@ -312,10 +308,9 @@ USB Vendor ID and Product ID
 
 ![HAGiBiS_THB01](images/device/HAGiBiS_THB01.png)
 
-  - Interface
-    - USB: USB 2.0 Type-C female
-    - HDMI: HDMI 1.4b female
-  - Streaming & Recording Resolutions:
+  - Interface: USB 2.0 Type-C female
+  - Video Input: HDMI 1.4b female
+  - UVC Video Output Resolution:
     - USB 2.0
 
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -331,7 +326,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|25/20/10/5|-|-|
       |**720 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
       |**640 × 480**|60/50/30/20/10|-|30/20/10/5|-|-|
-  - Audio: HDMI 1-channel embedded audio, 16bit 96KHz
+  - UAC Audio Output Format: Mono / 16-bit / 96000Hz
   - USB
     - Vendor ID: 0x534D (Hefei Macrosilicon Technology Co., Ltd. - OBSOLETE)
     - Product ID: 0x2109
@@ -345,10 +340,9 @@ USB Vendor ID and Product ID
  
  ![Rullz_MS2130](images/device/Rullz_MS2130.png)
  
-  - Interface
-    - USB: USB 3.2 Gen 1x1 Type-A male
-    - HDMI: HDMI 1.4b female
-  - Streaming & Recording Resolutions:
+  - Interface: USB 3.2 Gen 1x1 Type-A male
+  - Video Input: HDMI 1.4b female
+  - UVC Video Output Resolution:
     - USB 3.0
       
       |<img width=100 />|MJPEG (SDR)|NV12 (SDR)|YUY2 (SDR)|RGB32 (SDR)|P010 (HDR)|
@@ -379,7 +373,7 @@ USB Vendor ID and Product ID
       |**720 × 576**|60/50/30/20/10|-|-|-|-|
       |**720 × 480**|60/50/30/20/10|-|-|-|-|
       |**640 × 480**|60/50/30/20/10|-|-|-|-|
-  - Audio: HDMI 2-channel embedded audio, 16bit 48KHz
+  - UAC Audio Output Format: Stereo / 16-bit / 48000Hz
   - USB ID
     - Vendor ID: 0x345F (MacroSilicon Technology Co., Ltd.)
     - Product ID: 0x2130
