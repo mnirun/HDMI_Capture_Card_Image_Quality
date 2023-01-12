@@ -29,21 +29,27 @@ HDMI Capture Card Image Quality
 
 ## ความเป็นมาและวัตถุประสงค์
 
+ทดสอบคุณภาพของภาพที่ได้จาก HDMI capture card ด้วยวิธี objective method แบบ full-reference (FR) ด้วยการใช้โปรแกรมคอมพิวเตอร์ (ImageMagick) แทนการทดสอบแบบ subjective method ที่อาศัยการดูด้วยตา
+
 ## ความรู้เบื้องต้น
+
+ตวามรู้เบื้องต้นที่จำเป็นาำหรับการทดสอบคุณภาพ
 
 ### Image quality
 
 #### Subjective method
 
-Double stimulus
+การทดสอบด้วยตา
 
 ##### NVIDIA ICAT
 
 #### Objective method
 
- - SSIM
- - HCL: Luminance
- - HCL: Chroma
+SSIM (Structural Similarity Index)
+
+เป็นการคำนวณค่าที่ใช้ในการบ่งชี้คุณภาพของสัญญาณภาพดิจิทัลโดยใช้การคำนวณค่าที่มีผลกระทบต่อการมองเห็นภาพ เช่น ความสว่าง (Luminance) ความแตกต่างระหว่างสีขาวกับสีดำ (Contrast) และเค้าโครงของภาพ (Structure) เพื่อใช้ในการเปรียบเทียบความเหมือนหรือความคล้ายกันของภาพดิจิทัลต้นฉบับกับภาพดิจิทัลที่ผ่านการประมวลผลภาพแบบต่าง ๆ เพื่อประเมินว่าภาพที่ผ่านการประมวลผลดังกล่าวมีค่าคุณภาพเพิ่มขึ้นหรือลดลงอย่างไรโดยจะมีช่วงของค่าการประเมินผลอยู่ระหว่าง 0 - 1 โดยในการเปรียบเทียบกับภาพอ้างอิงนั้นภาพที่มีค่า SSIM ใกล้เคียง 1 มากกว่าจะมีคุณภาพที่ดีกว่า
+
+ที่มา: [การสร้างคืนภาพความละเอียดสูงยิ่งสำหรับระบบกล้องโทรทัศน์วงจรปิด](http://sutir.sut.ac.th:8080/jspui/bitstream/123456789/8214/2/Fulltext.pdf)
 
 ##### ImageMagick
 
@@ -508,6 +514,7 @@ interval capture test with ffmpeg
    - ACASIS U3SDH สำหรับงาน broadcasting วัดุทนทาน
 
 ## ข้อมูลอ้างอิง
+ - [Image quality](https://en.wikipedia.org/wiki/Image_quality)
  - [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
  - [New FAQ on USB Vendor ID and Product ID – Open Source Hardware Association](https://www.oshwa.org/2013/11/19/new-faq-on-usb-vendor-id-and-product-id/)
  - [A Novel Methodology for Mapping Objective Video Quality Metrics to the Subjective MOS Scale](https://ieeexplore.ieee.org/abstract/document/6873572/)
