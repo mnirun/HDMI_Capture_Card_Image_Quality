@@ -1,4 +1,4 @@
-# HDMI Capture Card Image Quality (Work in pogress, updated 2023/01/11)
+# HDMI Capture Card Image Quality (Work in pogress, updated 2023/01/12)
 HDMI Capture Card Image Quality
 
 - ความเป็นมาและวัตถุประสงค์
@@ -45,11 +45,13 @@ HDMI Capture Card Image Quality
 
 #### Objective method
 
-SSIM (Structural Similarity Index)
+SSIM (Structural Similarity Index Measure)
 
 เป็นการคำนวณค่าที่ใช้ในการบ่งชี้คุณภาพของสัญญาณภาพดิจิทัลโดยใช้การคำนวณค่าที่มีผลกระทบต่อการมองเห็นภาพ เช่น ความสว่าง (Luminance) ความแตกต่างระหว่างสีขาวกับสีดำ (Contrast) และเค้าโครงของภาพ (Structure) เพื่อใช้ในการเปรียบเทียบความเหมือนหรือความคล้ายกันของภาพดิจิทัลต้นฉบับกับภาพดิจิทัลที่ผ่านการประมวลผลภาพแบบต่าง ๆ เพื่อประเมินว่าภาพที่ผ่านการประมวลผลดังกล่าวมีค่าคุณภาพเพิ่มขึ้นหรือลดลงอย่างไรโดยจะมีช่วงของค่าการประเมินผลอยู่ระหว่าง 0 - 1 โดยในการเปรียบเทียบกับภาพอ้างอิงนั้นภาพที่มีค่า SSIM ใกล้เคียง 1 มากกว่าจะมีคุณภาพที่ดีกว่า
 
-ที่มา: [การสร้างคืนภาพความละเอียดสูงยิ่งสำหรับระบบกล้องโทรทัศน์วงจรปิด](http://sutir.sut.ac.th:8080/jspui/bitstream/123456789/8214/2/Fulltext.pdf)
+ที่มา
+ - [การสร้างคืนภาพความละเอียดสูงยิ่งสำหรับระบบกล้องโทรทัศน์วงจรปิด](http://sutir.sut.ac.th:8080/jspui/bitstream/123456789/8214/2/Fulltext.pdf)
+ - [Structural similarity](https://en.wikipedia.org/wiki/Structural_similarity)
 
 ##### ImageMagick
 
