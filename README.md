@@ -463,6 +463,20 @@ TBD
 
   - Operating temperature
   - Infiray T2L test
+  
+#### AVerMedia BU113: NV12
+
+![AVerMedia_BU113_thermal_nv12](images/thermal/AVerMedia_BU113_thermal_nv12.png)
+
+![AVerMedia_BU113_thermal_nv12_bottom](images/thermal/AVerMedia_BU113_thermal_nv12_bottom.png)
+
+#### ezcap ezcap331: NV12
+
+![ezcap_ezcap331_thermal_nv12](images/thermal/ezcap_ezcap331_thermal_nv12.png)
+
+#### ezcap ezcap331: YUY2
+
+![ezcap_ezcap331_thermal_yuyv422](images/thermal/ezcap_ezcap331_thermal_yuyv422.png)
 
 ### Reliability test
 
