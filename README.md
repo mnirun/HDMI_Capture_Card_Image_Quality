@@ -1,4 +1,4 @@
-# HDMI Capture Card Image Quality (Work in pogress, updated 2023/01/12)
+# HDMI Capture Card Image Quality (Work in pogress, updated 2023/01/24)
 HDMI Capture Card Image Quality
 
 - ความเป็นมาและวัตถุประสงค์
